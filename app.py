@@ -1,20 +1,8 @@
 import requests
 import csv
-# import json
 
-# descriptions = []
-
-
-# def get_json():
-#     with open('raw.json', 'r') as file:
-#         return json.load(file)
-
-
-# def create_stars(response):
-#     for item in response.json():
-#         decs = item['description']
-#         if decs is not None:
-#             descriptions.append(decs)
+values = [['name', 'html_url', 'description', 'created_at',
+           'updated_at', 'stargazers_count', 'language']]
 
 
 def write_col(data):
@@ -22,21 +10,6 @@ def write_col(data):
         writer = csv.writer(file)
         for d in data:
             writer.writerow(d)
-
-
-# def write_header(data):
-#     with open('data2.csv', 'w') as file:
-#         writer = csv.writer(file)
-#         writer.writerow(data)
-
-
-# values = [['name2', 'description2', 'url2', 'star_count2'],
-#           ['name2', 'description2', 'url2', 'star_count2']]
-values = [['name', 'html_url', 'description', 'created_at',
-           'updated_at', 'stargazers_count', 'language']]
-# print(descriptions)
-# write_header(header)
-# write_col(values)
 
 
 def append_new_data(json_data):
@@ -60,12 +33,7 @@ def fetch_data():
         response = requests.get(url)
         js = response.json()
         values.extend(append_new_data(js))
-        # create_stars(response)
-        # append_new_data
 
 
-# j_data = get_json()
-# values.extend(append_new_data(j_data))
-# print(values)
 fetch_data()
 write_col(values)
