@@ -1,0 +1,715 @@
+A drop-in universal library allows to record audio within the app with a nice User Interface.
+Material Linear Progress Bar for your iOS apps
+A modern In-App Purchases management framework for iOS.
+CallingSwiftFromC from time ideas on https://forums.swift.org/t/best-way-to-call-a-swift-function-from-c/9829
+Types and functions that make it a little easier to work with Core ML in Swift.
+GStreamer Python binding overrides (complementing the bindings provided by python-gi)
+GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
+"📱💬🚦 TinyConsole is a micro-console that can help you log and display information inside an iOS application, where having a connection to a development computer is not possible."
+iOS library that manages your app's cached data with ease.
+"A fast & simple, yet powerful & flexible logging framework for Mac and iOS"
+Show the weather effects onto view written in Swift4.2
+"Python best practices guidebook, written for humans. "
+Play mp4 videos with alpha background on iOS
+Python bindings for FFmpeg - with complex filtering support
+Tutorials from ioscreator.com
+"A toolkit for SQLite databases, with a focus on application development"
+The Swift Programming Language
+A Fourier Series visualisation written in Swift/SwiftUI
+Open source regex engine
+🍎 Xcode behavior scripts supercharging your efficiency 
+"A type-safe, Swift-language layer over SQLite3."
+A Cocoa / Objective-C wrapper around SQLite
+Streaming and realtime audio manipulation with AVAudioEngine
+Timelane
+Reads an audio file and displays the waveform
+High-performance Unity iOS/Android logger built with native platform UI
+"Generic TableView datasource that can be used to populate any type of listing with single cell listing, sectional listing and useful to populate different type of cells in one section using protocol based models and Generics."
+A Simple and Lightweight framework for In App Purchase
+Use PanGesture to dismiss view on UIViewController and UIView
+:star: Custom card-designed CollectionView layout
+Xcode File Template - New MVVM Module
+"A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
+Easily run shell commands from a Swift script or command line tool
+Formatting technology for Swift source code
+iOS screen capture player for macOS with chroma key filter for starlight stage
+Core Image Filter Explorer & Showcase
+Swift framework for zipping and unzipping files.
+AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
+A UIKit custom transition that simulates an elastic drag. Written in Swift.
+"A movie iOS app built with the MVVM architecture, Combine and SwiftUI frameworks https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/."
+A nicer way to handle files & folders in Swift
+Ansible configuration to setup my macOS
+iOS Trakt Client - Keep track of your favorite TV shows and movies on your iPhone. (Under development)
+"print table on swift. print(table: [1, 2, 3])"
+Cut and paste your surroundings using AR
+The fast path to autolayout views in code
+The Rick and Morty API
+Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+Learning MVVM concepts with rxswift
+tl;dr - Create a weak capture of self if accessing self in an Rx closure
+Drop-in iOS Audio Player built on top of BASS-library. 
+A Mac App to find unused images and resources in XCode project.
+Iridescent Effect View (inspired by Apple Pay Cash) ✨
+Easy Map Annotation Clustering 📍
+Easy Haptic Feedback Generator 📳
+Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱
+SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲
+Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.
+🐵 Animoji app using Apples AvatarKit
+Generate Objective-C headers from Mach-O files.
+iOS Objective-C headers as derived from runtime introspection
+"Objective-C Runtime Browser, for Mac OS X and iOS"
+Swift 3: Function to handle jailbreak detection on iOS 
+A jailbreak detection library for iOS
+Unit Tests Memory Leaks in Swift. Write readable tests for mem leaks easily with these Quick and Nimble extensions.
+GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
+"📲 The curated list of iOS Developer interview questions and answers, Swift & Objective-C"
+Light way to add Fancy bottom bar 📲
+" SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️"
+Blob effect implementation with UIKIt
+通过UITextView实现富文本(bold、italic、underLine、deleteLine、addImage)
+The modern video player for macOS.
+X-SwiftFormat extension for Xcode
+Create Apple's Live Photos from JPEG and MOV.
+A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).
+"A simple, customizable camera control - video recorder for iOS."
+Soulful docs for Swift & Objective-C
+A simple yet powerful Swift library to build form for your class models.
+Extensions giving Swift's Codable API type inference super powers 🦸‍♂️🦹‍♀️
+Generates files for your VIPER Architecture files.
+A generator of Clean Swift Architecture files
+A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
+Step-by-step guide to bootstrap a React Native app from scratch
+Latest k2pdfopt from willus.com with cmake build fixes + Dockerfile 🐳
+The official Swift style guide for raywenderlich.com.
+"💿 Free software that works great, and also happens to be open-source Python. "
+"Bits and bobs regarding satellites. Python scripts and Jupyter notes, mainly."
+dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
+rxswift lessons
+The all-language autocompleter: https://tabnine.com/
+[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
+"Custom UISegmentedControl replacement for iOS, written in Swift"
+Reactive Programming in Swift
+Elegant HTTP Networking in Swift
+"A powerful, protocol-oriented library for working with the keychain in Swift."
+Popover is a balloon library like Facebook app. It is written in pure swift.
+A visual overview of useful skills to learn as a web developer
+Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen
+A drop-in universal library allows to record audio within the app with a nice User Interface.
+Material Linear Progress Bar for your iOS apps
+A modern In-App Purchases management framework for iOS.
+CallingSwiftFromC from time ideas on https://forums.swift.org/t/best-way-to-call-a-swift-function-from-c/9829
+Types and functions that make it a little easier to work with Core ML in Swift.
+GStreamer Python binding overrides (complementing the bindings provided by python-gi)
+GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
+"📱💬🚦 TinyConsole is a micro-console that can help you log and display information inside an iOS application, where having a connection to a development computer is not possible."
+iOS library that manages your app's cached data with ease.
+"A fast & simple, yet powerful & flexible logging framework for Mac and iOS"
+Show the weather effects onto view written in Swift4.2
+"Python best practices guidebook, written for humans. "
+Play mp4 videos with alpha background on iOS
+Python bindings for FFmpeg - with complex filtering support
+Tutorials from ioscreator.com
+"A toolkit for SQLite databases, with a focus on application development"
+The Swift Programming Language
+A Fourier Series visualisation written in Swift/SwiftUI
+Open source regex engine
+🍎 Xcode behavior scripts supercharging your efficiency 
+"A type-safe, Swift-language layer over SQLite3."
+A Cocoa / Objective-C wrapper around SQLite
+Streaming and realtime audio manipulation with AVAudioEngine
+Timelane
+Reads an audio file and displays the waveform
+High-performance Unity iOS/Android logger built with native platform UI
+"Generic TableView datasource that can be used to populate any type of listing with single cell listing, sectional listing and useful to populate different type of cells in one section using protocol based models and Generics."
+A Simple and Lightweight framework for In App Purchase
+Use PanGesture to dismiss view on UIViewController and UIView
+:star: Custom card-designed CollectionView layout
+Xcode File Template - New MVVM Module
+"A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
+Easily run shell commands from a Swift script or command line tool
+Formatting technology for Swift source code
+iOS screen capture player for macOS with chroma key filter for starlight stage
+Core Image Filter Explorer & Showcase
+Swift framework for zipping and unzipping files.
+AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
+A UIKit custom transition that simulates an elastic drag. Written in Swift.
+"A movie iOS app built with the MVVM architecture, Combine and SwiftUI frameworks https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/."
+A nicer way to handle files & folders in Swift
+Ansible configuration to setup my macOS
+iOS Trakt Client - Keep track of your favorite TV shows and movies on your iPhone. (Under development)
+"print table on swift. print(table: [1, 2, 3])"
+Cut and paste your surroundings using AR
+The fast path to autolayout views in code
+The Rick and Morty API
+Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+Learning MVVM concepts with rxswift
+tl;dr - Create a weak capture of self if accessing self in an Rx closure
+Drop-in iOS Audio Player built on top of BASS-library. 
+A Mac App to find unused images and resources in XCode project.
+Iridescent Effect View (inspired by Apple Pay Cash) ✨
+Easy Map Annotation Clustering 📍
+Easy Haptic Feedback Generator 📳
+Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱
+SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲
+Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.
+🐵 Animoji app using Apples AvatarKit
+Generate Objective-C headers from Mach-O files.
+iOS Objective-C headers as derived from runtime introspection
+"Objective-C Runtime Browser, for Mac OS X and iOS"
+Swift 3: Function to handle jailbreak detection on iOS 
+A jailbreak detection library for iOS
+Unit Tests Memory Leaks in Swift. Write readable tests for mem leaks easily with these Quick and Nimble extensions.
+GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
+"📲 The curated list of iOS Developer interview questions and answers, Swift & Objective-C"
+Light way to add Fancy bottom bar 📲
+" SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️"
+Blob effect implementation with UIKIt
+通过UITextView实现富文本(bold、italic、underLine、deleteLine、addImage)
+The modern video player for macOS.
+X-SwiftFormat extension for Xcode
+Create Apple's Live Photos from JPEG and MOV.
+A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).
+"A simple, customizable camera control - video recorder for iOS."
+Soulful docs for Swift & Objective-C
+A simple yet powerful Swift library to build form for your class models.
+Extensions giving Swift's Codable API type inference super powers 🦸‍♂️🦹‍♀️
+Generates files for your VIPER Architecture files.
+A generator of Clean Swift Architecture files
+A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.
+Step-by-step guide to bootstrap a React Native app from scratch
+Latest k2pdfopt from willus.com with cmake build fixes + Dockerfile 🐳
+The official Swift style guide for raywenderlich.com.
+"💿 Free software that works great, and also happens to be open-source Python. "
+"Bits and bobs regarding satellites. Python scripts and Jupyter notes, mainly."
+dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
+rxswift lessons
+The all-language autocompleter: https://tabnine.com/
+[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
+"Custom UISegmentedControl replacement for iOS, written in Swift"
+Reactive Programming in Swift
+Elegant HTTP Networking in Swift
+"A powerful, protocol-oriented library for working with the keychain in Swift."
+Popover is a balloon library like Facebook app. It is written in pure swift.
+A visual overview of useful skills to learn as a web developer
+Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen
+"Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺"
+No more checking for keyboard notifications and parsing keyboard apperance info manually!
+A protocol to serialize Swift structs and classes for encoding and decoding.
+Notify users when a new version of your app is available and prompt them to upgrade.
+Pretty print for Swift.
+Source code of Telegram for macos on Swift 5.0
+"A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, Storyboards…)"
+"A network mocking layer for iOS, tvOS, and macOS"
+"Physics-based animations for iOS, tvOS, and macOS."
+Movie App - Swift
+Elegant Terminal theme with bright colors
+Modern finite-state machine implemented in pure Swift
+An extremely light-weight and generic Finite State Machine (FSM) implemented in Swift.
+"Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS"
+"A sample Apple MusicKit project that demonstrates how to integrate Apple MusicKit with your iOS, Android or react app."
+First unofficial community driven Zeplin iOS Application
+Lists all of the pre-installed system sounds on an iOS device from the /Library/Ringtones and /System/Library/Audio/UISounds folders and sub-folders. Includes a bookmarking feature to all one to easily find favorite sounds.
+A simple Jekyll theme for words and pictures.
+💀 An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.
+Composing NSAttributedString with SwiftUI-style syntax
+Handle rdar:// links gracefully
+COVID-19 App
+:octocat: ElongationPreview is an elegant UI push-pop style view controller. iOS library made by @Ramotion - https://www.ramotion.com/agency/app-development/
+Tesseract Open Source OCR Engine (main repository)
+Converts Markdown files and strings into NSAttributedStrings with lots of customisation options.
+A self-taught project to learn Swift.
+A self-taught project of learning Swift by making some of Airbnb's screens
+Generic reusables for UICollectionView and UITableView
+"📸 iOS app, Searching Flickr with ReactorKit"
+Bulk convert SVGs to an Xcode asset catalog
+Augmented Reality Tetris made with ARKit and SceneKit
+Example of using SwiftUI to create a beautiful Liquid Swipe control
+Menu with a circular layout based on Macaw
+"Preview extractor for news, articles and full-texts in Swift"
+SwiftUI library for a walkthrough or onboarding flow with tap actions
+Easily customizable floating button menu created with SwiftUI
+Various usages of the Macaw library
+Powerful and easy-to-use vector graphics Swift library with SVG support
+A number of preset loading indicators created with SwiftUI
+For less complicated keyboard event handling.
+Lightweight dropdown message bar in Swift. It's simple and beautiful.
+OS font complements library. Localized font supported.
+Lightweight touch visualization library in Swift. A single line of code and visualize your touches!
+"A rich text WYSIWYG editor for iOS, which is based on Squire using HTML5 and javascript."
+Store SSH keys in the Secure Enclave
+Reactive Keyboard in iOS
+A missing placeholder for UITextView
+A library for reactive and unidirectional Swift applications
+🎨 Generate image resources in Swift
+⛵️ Elegant URL Routing for Swift
+✨ Super sweet syntactic sugar for Swift initializers
+"A curated list of amazing SceneKit tutorials, projects and resources. Feel free to contribute."
+"🏞 A simple iOS photo and video browser with optional grid view, captions and selections written in Swift5.0"
+✨ Awesome Dropdown menu for iOS with Swift 5.0
+🖍 Highlight whatever you want! 
+레츠스위프트 뉴스레터 아카이브
+🔍 Awesome fully customize search view like Pinterest written in Swift 5.0 + Realm support!
+📖 Awesome iOS UI/UX Application (Open Source)
+"✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 5"
+"✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4"
+The protocols we follow for the things we cannot automate yet! ✅
+A two-week effort to help support indie developers shipping apps on Apple's platforms who have been financially impacted by the COVID-19 pandemic.
+"The XCTest Project, A Swift core library for providing unit test support"
+Yet another animated flat buttons in Swift
+A Swift Package that allows you to define configuration settings inside a Package.swift
+Apple watch app that give early infection alert based on resting heart rate
+"A ZIP file I/O library for macOS, tvOS, iOS and iPadOS"
+CarBode : Free & Opensource barcode scanner & generator for SwiftUI
+Firebase Cloud Firestore support library for iOS. 🧢
+"💬 Bluetooth-powered group messaging app for iOS, watchOS, tvOS, and macOS"
+Simplify your iOS/Mac analytics
+💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
+Swift Confetti View ! Who doesn't like confetti? 🎉🎉
+" 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components)."
+JSON encoding and decoding without the use of Foundation in pure Swift.
+Short JavaScript code snippets for all your development needs
+An Xcode extension (plugin) to generate Swift test doubles automatically.
+Quick Actions for Xcode to jump to a source code line on Github or copy GitHub link to clipboard.
+"A curated collection of iOS, ML, AR resources sprinkled with some UI additions"
+macOS keychain cracking tool
+A library for backporting Dark Mode in iOS
+"Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework."
+Firebase Quickstart Samples for iOS
+RxSwift to Apple’s Combine Cheat Sheet
+"Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark."
+"Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface"
+A custom reusable circular / progress slider control for iOS application.
+"A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable "
+Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project
+A sample project that shows the implementation of MVVM-C design pattern
+An exploration of the Singleton pattern in Swift
+A Swift Date extension helper
+"A SwiftUI collection view with support for custom layouts, preloading, and more."
+"Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+Safely access Apple's SF Symbols using static typing
+A tiny Xcode extension for people who debug with print().
+Algorithm is a library of tools that is used to create intelligent applications.
+A library used to create beautiful animations and transitions for iOS.
+Butter for iOS
+Powerfully Customizable - Multiple Photo & Video Picker Controller
+Building a better date/time library for Swift
+CSV reading and writing library written in Swift.
+"Delightful framework for iOS to easily persist structs, images, and data"
+"A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8."
+A clean and easy-to-use floating panel UI component for iOS
+Coronavirus tracker app for iOS & macOS with maps & charts
+CareKit is an open source software framework for creating apps that help people better understand and manage their health.
+ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
+Example of MVVM-C architecture implemented with RxSwift
+Türkçe Sözlük'ünün 11. baskısının gözden geçirilip güncellenmiş olarak genel ağdan sunulan sürümüdür.
+"Swift Application Metrics instruments the Swift runtime for performance monitoring, providing the monitoring data programatically via an API or visually with an Eclipse Client."
+"pop up your ViewController with custom size, position and animations"
+Command line interface for testing internet bandwidth using speedtest.net
+↔ Aspect-fit a font inside a view container.
+Command line tool to create an Xcode project with a Playground and an SPM library ready for use
+Timelane + RxSwift
+MultipeerConnectivity + Codable = ❤️
+":camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:"
+UILabel (extension or subclass) that adjust the font size to fit a frame
+Testing tools and utilities for Apple's Combine framework.
+"Generate HTML, XML, and other web content using Swift string literal interpolation"
+A cross-platform Reddit client built in SwiftUI
+"Straightforward, type-safe argument parsing for Swift"
+Quickly search the built-in iOS dictionary to see definitions of words. Collect words you want to remember.
+A powerful framework for developing CLIs in Swift
+Adding Markdown support to NSAttributedString.
+"A modern, real iOS keyboard system notifications handler framework that Just Works."
+📅 Fully customizable calendar for iOS and iPadOS
+Custom TabBarController with Neumorphism.
+Fish-like autosuggestions for zsh
+Micro-framework to enable and facilitate the use of LocalAuthentication (Touch / Face ID) on your iOS Projects
+A proof of concept scripting library for Swift
+Community-curated topic and collection pages on GitHub
+Multi-tier UIScrollView nested scrolling solution. 😋😋😋
+🔒 Swift Obfuscator that protects iOS apps against reverse engineering attacks.
+"macOS Dialog that displays ""What's New"" information after an app update"
+"A simple and powerful library for using gradient layer, image, color"
+Make your table view expandable just by implementing one method.
+🤝 Struct and enum data access in harmony.
+DeviceKit is a value-type replacement of UIDevice.
+"A simple, customizable Country picker for picking country or dialing code. 🇮🇳 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧 "
+Simple timeline view implemented by UITableViewCell
+Live iOS Notifications in the Simulator.
+":dart: Advanced debugging skills used in the iOS project development process, involves the dynamic debugging, static analysis and decompile of third-party libraries. iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域"
+An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
+Tiny http server engine written in Swift programming language.
+Roadmap to becoming an iOS developer in 2018.
+"A micro-framework for observing file changes, both local and remote. Helpful in building developer tools."
+"Meta-programming for Swift, stop writing boilerplate code."
+Virtual machines for iOS
+A syntax highlighting source editor for iOS and macOS using UITextView and NSTextView.
+A generic stretchy header for UITableView and UICollectionView
+⛓ Easy to Read and Write Multi-chain Animations Lib in Objective-C and Swift.
+UIKit a-là SwiftUI.framework [min deployment target iOS10]
+SSH and SFTP client for iOS
+"Algorithms and data structures in Swift, with explanations!"
+"Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding"
+:page_facing_up: UIPageViewController made simple
+"📖 A simple, highly informative page view controller"
+™️ A powerful paging view controller with interactive indicator bars
+A paging view controller with a highly customizable menu ✨
+Simple refresh control for iOS based on SpriteKit and Core Graphics
+":bookmark_tabs: Presentation helps you to make tutorials, release notes and animated pages."
+"⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层"
+A simple video player that allow animations to be performed on the view during playback.
+"An iOS/tvOS photo gallery viewer, useful for viewing a large (or small!) number of photos."
+a simple but highly customizable paging layout for UICollectionView.
+"Reusable GridView with excellent performance and customization that can be time table, spreadsheet,  paging and more."
+Page view controller with bounce effect
+An easy way to use pull-to-refresh
+Custom animated pull-to-refresh that can be easily added to UIScrollView
+GIFRefreshControl is a pull to refresh that supports GIF images as track animations.
+"💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws"
+General-purpose contextual cards for iOS
+Uses docker compose with a python flask microservice and MongoDB instance to make a sample application
+Terminal Kit - Console UI toolkit for Swift applications
+"🕰 Type-safe time calculations in Swift, powered by generics"
+"Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS"
+"Xcode extension to paste JSON as Swift, Objective-C, and more"
+A toolkit for building responsive motion using Core Animation.
+":iphone::eyes: In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More."
+A command line tool for cleaning unused resources in Xcode.
+The easiest way to display highly customizable in app notification banners in iOS
+A tool to convert Swift code to Kotlin.
+"Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel."
+"Gemini is rich scroll based animation framework for iOS, written in Swift."
+Swift library for choreographing animations on the screen.
+A UI framework that enables panels on iOS.
+Combines the high accuracy of AR with the scale of GPS data.
+☠️ An elegant way to show users that something is happening and also prepare them to which contents he is waiting
+"A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts."
+A stepper with a sliding label in the middle.
+Highly customizable GaugeSlider designed for a Smart Home app. Featured at Medium.
+👨‍💼Reduce daily routine with sasha
+The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable
+PlayIndicator inspired by Apple's Music Player.
+Source code to help this issue: https://stackoverflow.com/questions/29219688/present-modal-view-controller-in-half-size-parent-controller/45525284#45525284
+Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
+"Convenient & secure logging during development & release in Swift 3, 4 & 5"
+A macOS app to control the Xcode Simulator.
+A high-performance button control with rounded corners for iOS.
+C library for cross-platform real-time audio input and output
+💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
+"A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame"
+The Git interface you've been missing all your life has finally arrived.
+A source code analyzer for Swift projects.
+MSBBarChart is an easy to use bar chart library for iOS
+Lightweight custom collection view inspired by Airbnb.
+OpenAPI support for server side Swift projects.
+A data-driven UICollectionView framework for building fast and flexible lists.
+A community-driven replacement for JSQMessagesViewController
+"a lightweights, highly customizable hint library for Swift"
+"Natural gestures and animations inspired by Apple's WWDC18 talk ""Designing Fluid Interfaces"""
+A DSL to make animation easy on iOS with Swift.
+It's magic.
+Backport of UICollectionViewCompositionalLayout to earlier iOS 12
+CarLens - Recognize and Collect Cars
+An easy-to-use Collection View Layout for card-like animation.
+UICollectionViewLayout with focused content
+"↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9."
+Make. It. Bounce.
+A CollectionView Layout displaying a slanted cells
+An animation switch collection
+Animated UITextField and UITextView replacement for iOS
+"A beautiful and flexible text field control implementation of  ""Float Label Pattern"". Written in Swift."
+iOS 11 Control Center Slider
+A segmented control with custom appearance and interactive animations. Written in Swift 3.0.
+:octocat: 🔍 RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion - https://www.ramotion.com/agency/app-development/
+:octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion - https://www.ramotion.com/agency/app-development/
+Apple TV Parallax effect in Swift.
+"Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI"
+KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. 
+Awesome iOS 11 appstore cards in swift 5.
+A set of cool animated page controls written in Swift to replace boring UIPageControl. Mady by @ChiliLabs - https://chililabs.io
+精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验
+UIKit views with Neumorphism style design.
+Parses Swift code into its constituent declarations
+Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
+Easily play combinations of sound effects and Taptic Engine vibrations on iOS.
+Numerical APIs for Swift
+🖥 Control your external monitor brightness & volume on your Mac
+ViewAnimator brings your UI to life with just one line
+A UI/UX framework for creating beautiful applications.
+A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
+A fully customizable popup style menu for iOS 😎
+"Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission."
+"Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets."
+Custom transition between controllers. Settings controller for your iOS app.
+Easy interactive interruptible custom ViewController transitions
+A collaborative list of awesome UI & Animation only in Swift. Include quick preview.
+"Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data."
+"Now playing controller from Apple Music, Mail & Podcasts Apple's apps."
+Implementation of Coordinators app design pattern.
+Sherlock Holmes of the networking layer. :male_detective:
+Networking activity logger for Swift
+a little native network debugging tool for iOS
+:octocat: 🎚 RAMPaperSwitch is a Swift material design UI module which paints over the parent view when the switch is turned on. iOS library by @Ramotion - https://www.ramotion.com/agency/app-development/
+Powerful image loading and caching system
+ChartView made in SwiftUI
+"list of best iOS Articles,Videos,Blogs in my iOS Journey"
+🎌 Powerful navigation library for iOS based on the coordinator pattern
+Reimagining UICollectionView
+A pure Swift library for creating command-line interfaces
+Elegant transition library for iOS & tvOS
+"A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout."
+A collection view layout capable of laying out views in vertically scrolling grids and lists.
+"This demo app will animate the view just like Youtube mobile app, while tapping on video a UIView pops up from right corner of the screen and the view can be dragged to  right corner through Pan Gesture and more features are there as Youtube iOS app . The whole design is done with Auto Layout and it is compatible with iOS 6 too. No need to worry about screen size as it will run smoothly on any device size iPhone 4s to iPhone 6 Plus"
+Articles for NSHipster.com
+PIP Video Player for iOS
+"A video player on top of AVQueuePlayer with custom header, playlist items, play, pause, seek to slider, time, resize to fullscreen, forward, backward horizontal, vertical capabilities."
+A lightweight app to play videos from the Files app in a better (dark) interface which avoids losing your playback position.
+📊 Extract and analyze the evolution of an iOS app's code.
+"Versatile Video Player implementation for iOS, macOS, and tvOS"
+"Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS."
+Syntax sugar of OpenTok iOS SDK with Audio/Video communication including screen sharing
+A framework for streaming audio between Apple devices using AirPlay.
+A Swift wrapper for the FFmpeg API
+:iphone: :movie_camera: A powerful and completely customizable media player for iOS
+"Paging Video UI, and some control components is available."
+"ABMediaView Swift version - Media view which subclasses UIImageView, and can display & load images, videos, GIFs, and audio and from the web, and has functionality to minimize from fullscreen, as well as show GIF previews for videos."
+"A set of tools to trim, crop and select frames inside a video"
+Layer Player explores the capabilities of Apple's Core Animation API
+AlamofireImage is an image component library for Alamofire
+Generates documentation for Swift projects
+fork and refactoring
+A tab bar controller with sliding tabs and a custom tab bar
+Simple Animated tabbar with native control
+One another nice animated tabbar
+Websockets in swift for iOS and OSX
+Beating `Error.localizedDescription` at its own game.
+"Delightful, robust, cross-platform and chainable file-pathing functions."
+Why not use UserDefaults to store Codable objects 😉
+A simple ToDoList written in Swift
+The better way to deal with JSON data in Swift.
+"A lightweight, pure-Swift library for downloading and caching images from the web."
+:leaves: Write concise Autolayout code
+Simple JSON Object mapping written in Swift
+Promises for Swift & ObjC.
+Source code for 'Pro iOS Table Views and Collection Views' by Tim Duckett
+"Create walkthroughs and guided tours (coach marks) in a simple way, with Swift."
+RSA public/private key encryption in Swift
+Utilities for combining Mapbox maps and location services with ARKit in your applications.
+Clean Architecture for iOS
+Code to illustrate strong reference cycle and for using with Xcode Instruments
+Protocol-Oriented Themes for iOS Apps
+"A curated list of awesome Swift frameworks, libraries and software."
+Fast JSON parsing for Swift
+Swift friendly localization and i18n with in-app language switching
+"Swift UI libraries, iOS components and animations by @Ramotion - https://www.ramotion.com/agency/app-development/"
+An interactive iOS side menu with rich features.
+Network abstraction layer written in Swift.
+Turn-by-turn navigation logic and UI in Swift on iOS
+"Traffic-aware directions and map matching in Swift on iOS, macOS, tvOS, and watchOS"
+A collection of Swift tips & tricks that I've shared on Twitter
+A view controller for iOS that allows users to crop portions of UIImage objects
+An open source iOS framework for GPU-based image and video processing
+FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+A fast and flexible Markdown parser written in Swift.
+RSS reader for macOS and iOS.
+Effortless path operations in Swift
+Fast and powerful Swift string scanning made simple
+A static site generator for Swift developers
+🍁 What you don't know is what you haven't learned
+Layer Player explores the capabilities of Apple's Core Animation API
+AIB indicates for your app users which audio is playing. Just like the Podcasts app.
+Audio visualisation of song
+"🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift."
+Cool Animated music indicator view written in Swift
+Custom iOS music player view
+"A sound fader for AVAudioPlayer written in Swift for iOS, tvOS and macOS."
+"An iOS and macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations."
+Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
+Plugin for Xcode to integrate the Dash documentation viewer app
+A fun project to demonstrate how to actuate an Apple Force Touch trackpad.  Of dubious practical benefit.
+Better Codable through Property Wrappers
+"ExpandedTabBar is a very creative designed solution for ""more"" items in UITabBarController"
+Smooth customizable tabs for iOS apps.
+Customisable iOS bottom menu works like Tabbar
+UITabBarController with swipe interaction between its tabs.
+KYWheelTabController is a subclass of UITabBarController.It displays the circular menu instead of UITabBar.
+Animated top/bottom segmented control written in Swift.
+A TabBarController with a unique animation for selection
+This is a Review posting app that let user find interesting places near them
+Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
+"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects "
+"Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift."
+"Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more)."
+"SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)"
+Learn regex the easy way
+CodePecker is a tool to detect unused Swift code.
+Clean Architecture for iOS
+A swifty iOS framework that allows developers to create beautiful onboarding experiences.
+Animation library for iOS in Swift
+Customisable user onboarding for your iOS app
+A simple and attractive AlertView to onboard your users in your amazing world.
+Fully functional music player which is written in swift programming language 
+A replacement for MBProgressHUD/SVProgressHUD or similar progress views that leverages UIPresentationController rather than inserting views into your window/view hierarchy.
+"Coroutines, structured concurrency and CSP for Swift on macOS and Linux."
+A handy collection of more than 500 native Swift extensions to boost your productivity.
+An iOS framework for WordPress integration.
+youtube iOS app template written in swift 5
+":octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!"
+"Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date..."
+"Translation of VIP cheatsheets for Machine Learning Deep Learning, and Artificial Intelligence"
+Color themes for Xcode
+Lightning provides components to make Swift development easier.
+"Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more"
+Linear interpolation microlibrary
+A clone for Apple's Voice Memos app.
+A tool to enforce Swift style and conventions.
+Small iOS application which tries to allocate as much memory as possible to crash. After that you can run the application again to see how much memory was needed for crash and when all the memory warnings happen.
+A Curated List of Game Network Programming Resources
+"As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp"
+CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
+Dash Alfred Workflow
+Replacement for Apple's Reachability re-written in Swift with closures
+📖 Design Patterns implemented in Swift 5.0
+:octocat: PaperOnboarding is a material design UI slider. Swift UI library by @Ramotion - https://www.ramotion.com/agency/app-development/
+Library to send mock remote notifications to the iOS simulator
+Android PagerTabStrip for iOS.
+C#'s 101 LINQ Samples translated to Swift 
+Mac OS X app to generate multiple size for Mobile App Icon development
+A Swift Autolayout DSL for iOS & OS X
+The unofficial WWDC app for macOS
+A minimal Ebook reader for Android/IOS made with flutter.
+"Mastering iOS 11 Programming - Second Edition, published by Packt"
+Nothing but sugar.
+An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
+📱 Wire for iOS (iPhone and iPad)
+A private messenger for iOS.
+Browser + Tor bundle for Android
+Swift 4 code snippets for Xcode 
+Community Food Photo App
+💯 Materials to help you rock your next coding interview
+🎨🖼 An image editor and engine using CoreImage
+Photo editor with a lot of cool features 
+ProgressHUD is a lightweight and easy-to-use HUD for iOS. (Objective-C)
+Unity Script Samples
+A socket daemon to multiplex connections from and to iOS devices
+Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
+Collection of awesome podcasts
+A list of developer portfolios for your inspiration
+An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
+🚀 Open source Node.js Headless CMS to easily build customisable APIs
+Easing Functions Cheat Sheet
+FastNoise C# Version
+A truly monstrous async web chat using no JS whatsoever on the frontend
+A collection of some of the neat math and physics tricks that I've collected over the last few years.
+Attribute Extensions for Unity
+An Asset Dependency Graph for Unity
+A collection of awesome things regarding React ecosystem
+The web-based visual programming editor.
+JetBrains theme of Material Theme
+✅  Curated list of resources for college students 
+J2ME app for Nokia 3510i to remote control Google slides
+An efficient and versatile input system for Unity.
+An Xcode color scheme with meanings behind colors.
+"DeBroglie is a C# library implementing the Wave Function Collapse algorithm with support for additional non-local constraints, and other useful features."
+An iOS library to natively render After Effects vector animations
+"📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms]"
+A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+A guide for hacking unity games
+Bounce - Game Template
+Top Down Guns - Unity Game Asset
+Double - Game Template
+Cave Exploration Starter Kit - Unity Game Template
+Source code for a game engine development series
+A course downloader/scrapper for https://www.pluralsight.com
+Chrome Extension: Easily download course video from pluralsight. Videos renamed and organized in folder.
+High Level API Components for Runtime NavMesh Building
+This respository contains a variety of React Native Apps. 📱
+Windows Calculator: A simple yet powerful calculator that ships with Windows
+A Xamarin app (Android) with Unity as a library (aar)
+"Few class to visualize shapes in space, geometry queries, vectors"
+A command-line tool that makes git easier to use with GitHub.
+📄 CLI that generates beautiful README.md files
+Unity custom character controller
+Son harfinden isim türetme oyunu - https://alpcanaydin.github.io/sonharf
+30 mini Swift Apps for self-study
+"Scrapy, a fast high-level web crawling & scraping framework for Python."
+Four classic games to learn game development without any library and game engine
+📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+Small tool for adding exported credentials from Chrome to macOS keychain
+"cross platform GUI for k2pdfopt, built with electron"
+Transfer data via animated QR codes
+⚡ Embed data payloads inside of ordinary images or video with high-performance 2-D barcodes. (Python library)
+A utility-first CSS framework for rapid UI development.
+Frontend codebase of kodilan.com
+Loading views made easy!
+http://www.ciaranmccann.me/wormsjs/
+computational origami
+Unity plugin for ios to show/hide status bar 
+Sandbox code to play with Twitter API
+A simple music making program
+:iphone: Collaborative List of Open-Source iOS Apps
+A collection of useful .gitignore templates
+"Imaging, analysis, and simulation software for radio interferometry"
+Linux kernel source tree
+Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+"A curated list of awesome Unity assets, resources, and more."
+The official source code repository for the calibre ebook manager
+A curated list of awesome ARKit projects and resources. Feel free to contribute!
+⭐️  Companies that don't have a broken hiring process
+"Documentation on how to access and use the Quick, Draw! Dataset."
+"Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)"
+A list of books 📚and articles 📝 for the discerning web developer to read.
+C# wrapper for the Riot Games API
+"Principles of Writing Consistent, Idiomatic JavaScript"
+Short CSS code snippets for all your development needs
+Python package for scraping recipes data
+Türkçe refactoring kılavuzu
+an open source voice command macro software
+A streamlined system to detect human emotions from image and voice and predict its reaction
+Speaker recognition/identification system in Python
+"Code repository for The Complete Android Oreo Developer Course - Build 23 Apps!, Published by Packt"
+Collection of React Hooks
+Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+"If you want to keep a secret, you must also hide it from yourself."
+Documentation for ASP.NET Core
+A collective list of free APIs for use in software and web development.
+"Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript."
+"A curated list of awesome Python frameworks, libraries, software and resources"
+"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+A complete computer science study plan to become a software engineer.
+"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+:books: Freely available programming books
+A book series on JavaScript. @YDKJS on twitter.
+freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
+SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019)
+An evolving how-to guide for securing a Linux server.
+The best design tools and plugins for everything 👉
+Xiaomi Mobile Phone Kernel OpenSource
+Code that'll help you kickstart a personal website that showcases your work as a software developer.
+A curated list of static web site generators.
+Map library for Xamarin.Forms using Google maps API
+":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
+:mortar_board: Path to a free self-taught education in Computer Science!
+A simple management tool for dnscrypt-proxy
+Lists of public DNSCrypt / DoH DNS servers and DNS relays
+GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
+:bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
+"👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming"
+Geliştiriciler için topluluk rehberi
+Rad code slides <🏄/>
+"Open Source Messenger App For Android - Real-time Messaging, Voice and Video Calls"
+Roadmap to becoming a web developer in 2020
+Comprehensive Python Cheatsheet
+A collection of interesting libraries/tools for Xamarin mobile projects 
+Bits and bytes of Python from the Internet
+:computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+😎 Awesome lists about all kinds of interesting topics
+Command-line program to download videos from YouTube.com and other video sites
+ Android open source VPN client released on Google Play store.
+Unity Project Using Plugin https://github.com/playgameservices/play-games-plugin-for-unity
+Mecha Hamster is a game where you roll through customizable environments that you can share with your friends.
+Multi-platform game where you feed well dressed animals with sushi
+The grpc.io website. (on GitHub pages)
+"A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through ""loaders"", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+Xamarin.iOS library for sliding content up from the bottom of the screen

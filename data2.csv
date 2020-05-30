@@ -1,0 +1,742 @@
+name,html_url,description,created_at,updated_at,stargazers_count,language
+IQAudioRecorderController,https://github.com/hackiftekhar/IQAudioRecorderController,A drop-in universal library allows to record audio within the app with a nice User Interface.,2015-01-17T09:33:32Z,2020-05-29T08:15:47Z,606,Objective-C
+LinearProgressBar,https://github.com/Recouse/LinearProgressBar,Material Linear Progress Bar for your iOS apps,2018-03-09T11:06:06Z,2020-05-28T09:42:27Z,98,Swift
+merchantkit,https://github.com/benjaminmayo/merchantkit,A modern In-App Purchases management framework for iOS.,2017-04-24T10:35:20Z,2020-05-29T09:14:35Z,902,Swift
+rebook,https://github.com/pwang7/rebook,,2020-05-06T21:50:36Z,2020-05-30T19:48:38Z,12,Python
+CallingSwiftFromC,https://github.com/ingconti/CallingSwiftFromC,CallingSwiftFromC from time ideas on https://forums.swift.org/t/best-way-to-call-a-swift-function-from-c/9829,2020-01-20T11:50:00Z,2020-05-26T04:32:44Z,10,Swift
+CoreMLHelpers,https://github.com/hollance/CoreMLHelpers,Types and functions that make it a little easier to work with Core ML in Swift.,2017-08-05T21:27:08Z,2020-05-30T07:33:50Z,691,Swift
+gst-python,https://github.com/GStreamer/gst-python,GStreamer Python binding overrides (complementing the bindings provided by python-gi),2015-12-01T21:49:11Z,2020-05-28T22:27:25Z,81,Python
+GPUImage3,https://github.com/BradLarson/GPUImage3,GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.,2018-06-17T18:00:55Z,2020-05-28T05:43:06Z,1926,Swift
+TinyConsole,https://github.com/Cosmo/TinyConsole,"📱💬🚦 TinyConsole is a micro-console that can help you log and display information inside an iOS application, where having a connection to a development computer is not possible.",2016-11-28T15:42:54Z,2020-05-27T06:42:47Z,1872,Swift
+Teller-iOS,https://github.com/levibostian/Teller-iOS,iOS library that manages your app's cached data with ease.,2018-05-21T17:09:26Z,2020-05-23T13:40:11Z,9,Swift
+CocoaLumberjack,https://github.com/CocoaLumberjack/CocoaLumberjack,"A fast & simple, yet powerful & flexible logging framework for Mac and iOS",2011-03-31T02:38:39Z,2020-05-30T04:11:44Z,11967,Objective-C
+URWeatherView,https://github.com/jegumhon/URWeatherView,Show the weather effects onto view written in Swift4.2,2017-04-21T09:28:48Z,2020-05-24T13:56:31Z,433,Swift
+python-guide,https://github.com/realpython/python-guide,"Python best practices guidebook, written for humans. ",2011-03-15T03:24:20Z,2020-05-30T20:57:06Z,20925,Batchfile
+TSHAlphaVideos,https://github.com/calm/TSHAlphaVideos,Play mp4 videos with alpha background on iOS,2015-07-07T01:33:50Z,2020-05-20T13:00:35Z,52,Objective-C
+ffmpeg-python,https://github.com/kkroening/ffmpeg-python,Python bindings for FFmpeg - with complex filtering support,2017-05-14T05:25:44Z,2020-05-30T17:33:12Z,3641,Python
+reversi-ios,https://github.com/refactoring-challenge/reversi-ios,,2020-01-18T12:50:00Z,2020-05-30T17:17:59Z,92,Swift
+ioscreator,https://github.com/ioscreator/ioscreator,Tutorials from ioscreator.com,2013-03-19T14:04:17Z,2020-05-28T13:56:03Z,3560,Swift
+GRDB.swift,https://github.com/groue/GRDB.swift,"A toolkit for SQLite databases, with a focus on application development",2015-06-30T11:17:06Z,2020-05-29T09:54:01Z,2916,Swift
+swift,https://github.com/apple/swift,The Swift Programming Language,2015-10-23T21:15:07Z,2020-05-30T19:22:11Z,51820,C++
+SwiftUIFourierSeries,https://github.com/simonboots/SwiftUIFourierSeries,A Fourier Series visualisation written in Swift/SwiftUI,2019-11-04T11:18:38Z,2020-05-30T17:27:06Z,100,Swift
+Regex,https://github.com/kean/Regex,Open source regex engine,2019-08-10T10:17:34Z,2020-05-16T15:00:06Z,86,Swift
+behaviors,https://github.com/JuIioCesar/behaviors,🍎 Xcode behavior scripts supercharging your efficiency ,2017-08-06T22:07:47Z,2020-05-16T11:54:16Z,9,Shell
+SQLite.swift,https://github.com/stephencelis/SQLite.swift,"A type-safe, Swift-language layer over SQLite3.",2014-10-04T18:23:46Z,2020-05-30T23:10:35Z,6918,Swift
+fmdb,https://github.com/ccgus/fmdb,A Cocoa / Objective-C wrapper around SQLite,2010-07-06T22:50:17Z,2020-05-30T19:06:50Z,13364,Objective-C
+SwiftAudioPlayer,https://github.com/tanhakabir/SwiftAudioPlayer,Streaming and realtime audio manipulation with AVAudioEngine,2019-01-29T05:44:47Z,2020-05-27T03:12:32Z,79,Swift
+Timelane,https://github.com/icanzilb/Timelane,Timelane,2020-01-25T18:41:08Z,2020-05-28T21:11:15Z,402,Swift
+FDWaveformView,https://github.com/fulldecent/FDWaveformView,Reads an audio file and displays the waveform,2013-10-19T17:32:43Z,2020-05-28T18:58:50Z,896,Swift
+lunar-unity-console,https://github.com/SpaceMadness/lunar-unity-console,High-performance Unity iOS/Android logger built with native platform UI,2015-08-12T06:24:57Z,2020-05-30T13:18:19Z,523,Java
+Generic-TableView-DataSource,https://github.com/SandsHellCreations/Generic-TableView-DataSource,"Generic TableView datasource that can be used to populate any type of listing with single cell listing, sectional listing and useful to populate different type of cells in one section using protocol based models and Generics.",2019-07-15T18:16:13Z,2020-05-13T09:06:44Z,7,Swift
+InAppPurchase,https://github.com/jinSasaki/InAppPurchase,A Simple and Lightweight framework for In App Purchase,2017-09-05T07:07:09Z,2020-05-12T12:13:46Z,170,Swift
+PanSlip,https://github.com/k-lpmg/PanSlip,Use PanGesture to dismiss view on UIViewController and UIView,2019-06-11T16:57:58Z,2020-05-20T03:15:19Z,92,Swift
+CardsLayout,https://github.com/filletofish/CardsLayout,:star: Custom card-designed CollectionView layout,2017-11-02T23:07:13Z,2020-05-27T02:22:16Z,614,Swift
+Xcode-File-Template,https://github.com/batikansosun/Xcode-File-Template,Xcode File Template - New MVVM Module,2020-05-10T13:38:01Z,2020-05-12T00:07:03Z,2,
+swift-composable-architecture,https://github.com/pointfreeco/swift-composable-architecture,"A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",2020-05-03T23:18:40Z,2020-05-30T16:19:12Z,1550,Swift
+ShellOut,https://github.com/JohnSundell/ShellOut,Easily run shell commands from a Swift script or command line tool,2017-04-02T16:29:41Z,2020-05-25T19:30:56Z,473,Swift
+swift-format,https://github.com/apple/swift-format,Formatting technology for Swift source code,2019-07-09T21:07:52Z,2020-05-30T09:08:38Z,871,Swift
+PhotoStudioPlayer,https://github.com/banjun/PhotoStudioPlayer,iOS screen capture player for macOS with chroma key filter for starlight stage,2017-11-03T05:37:08Z,2020-05-26T14:45:22Z,107,Swift
+Filterpedia,https://github.com/FlexMonkey/Filterpedia,Core Image Filter Explorer & Showcase,2015-12-29T08:10:54Z,2020-05-30T04:38:02Z,2052,Swift
+Zip,https://github.com/marmelroy/Zip,Swift framework for zipping and unzipping files.,2015-12-13T18:34:14Z,2020-05-29T01:31:06Z,1797,Swift
+AudioPlayer,https://github.com/delannoyk/AudioPlayer,AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).,2015-04-27T19:42:29Z,2020-05-30T09:51:30Z,563,Swift
+ElasticTransition,https://github.com/lkzhao/ElasticTransition,A UIKit custom transition that simulates an elastic drag. Written in Swift.,2015-12-16T20:25:27Z,2020-05-29T19:35:48Z,2140,Swift
+ModernMVVM,https://github.com/V8tr/ModernMVVM,"A movie iOS app built with the MVVM architecture, Combine and SwiftUI frameworks https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/.",2020-03-12T14:53:38Z,2020-05-30T20:09:00Z,87,Swift
+Files,https://github.com/JohnSundell/Files,A nicer way to handle files & folders in Swift,2017-01-15T18:00:08Z,2020-05-30T10:55:10Z,1810,Swift
+setup-my-mac,https://github.com/pietrocaselani/setup-my-mac,Ansible configuration to setup my macOS,2019-06-18T19:25:31Z,2020-05-18T10:20:23Z,3,Shell
+CouchTracker,https://github.com/pietrocaselani/CouchTracker,iOS Trakt Client - Keep track of your favorite TV shows and movies on your iPhone. (Under development),2017-08-16T13:15:41Z,2020-05-21T21:12:06Z,36,Swift
+Table,https://github.com/ShawnBaek/Table,"print table on swift. print(table: [1, 2, 3])",2020-03-05T12:36:57Z,2020-05-27T17:35:37Z,53,Swift
+ar-cutpaste,https://github.com/cyrildiagne/ar-cutpaste,Cut and paste your surroundings using AR,2020-05-02T18:40:00Z,2020-05-30T19:15:49Z,9025,TypeScript
+NorthLayout,https://github.com/banjun/NorthLayout,The fast path to autolayout views in code,2015-05-09T15:48:33Z,2020-05-05T15:30:16Z,27,Swift
+rick-and-morty-api,https://github.com/afuh/rick-and-morty-api,The Rick and Morty API,2018-02-05T22:40:29Z,2020-05-26T17:52:09Z,363,JavaScript
+Karabiner-Elements,https://github.com/pqrs-org/Karabiner-Elements,Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.,2016-07-11T04:57:55Z,2020-05-30T19:05:35Z,10629,C++
+todolist-mvvm-rxswift,https://github.com/99ridho/todolist-mvvm-rxswift,Learning MVVM concepts with rxswift,2017-04-01T14:43:15Z,2020-04-24T17:52:23Z,18,Swift
+TestRxSwiftClosures,https://github.com/scotteg/TestRxSwiftClosures,tl;dr - Create a weak capture of self if accessing self in an Rx closure,2016-03-06T20:15:05Z,2020-05-26T10:26:10Z,7,Swift
+APAudioPlayer,https://github.com/Alterplay/APAudioPlayer,Drop-in iOS Audio Player built on top of BASS-library. ,2014-05-26T19:23:39Z,2020-04-24T11:29:31Z,178,C
+LSUnusedResources,https://github.com/tinymind/LSUnusedResources,A Mac App to find unused images and resources in XCode project.,2015-08-26T02:12:22Z,2020-05-30T11:17:21Z,2975,Objective-C
+Shiny,https://github.com/efremidze/Shiny,Iridescent Effect View (inspired by Apple Pay Cash) ✨,2017-12-09T03:14:14Z,2020-05-27T07:11:27Z,689,Swift
+Cluster,https://github.com/efremidze/Cluster,Easy Map Annotation Clustering 📍,2017-04-13T08:40:54Z,2020-05-30T13:00:21Z,1087,Swift
+Haptica,https://github.com/efremidze/Haptica,Easy Haptic Feedback Generator 📳,2017-03-31T22:09:07Z,2020-05-29T04:29:15Z,518,Swift
+VisualEffectView,https://github.com/efremidze/VisualEffectView,Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱,2016-05-26T18:24:29Z,2020-05-27T14:28:50Z,714,Swift
+Magnetic,https://github.com/efremidze/Magnetic,SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲,2017-03-09T02:15:43Z,2020-05-29T10:17:16Z,1130,Swift
+StatusAlert,https://github.com/LowKostKustomz/StatusAlert,Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.,2017-12-07T19:02:16Z,2020-05-24T15:42:48Z,727,Swift
+SBSAnimoji,https://github.com/simonbs/SBSAnimoji,🐵 Animoji app using Apples AvatarKit,2017-11-06T21:14:34Z,2020-05-25T07:02:26Z,862,Objective-C
+class-dump,https://github.com/nygard/class-dump,Generate Objective-C headers from Mach-O files.,2011-04-18T06:08:19Z,2020-05-29T03:32:32Z,2687,Objective-C
+iOS-Runtime-Headers,https://github.com/nst/iOS-Runtime-Headers,iOS Objective-C headers as derived from runtime introspection,2011-01-09T13:37:14Z,2020-05-30T08:30:07Z,7524,Objective-C
+RuntimeBrowser,https://github.com/nst/RuntimeBrowser,"Objective-C Runtime Browser, for Mac OS X and iOS",2011-03-22T23:54:06Z,2020-05-30T16:43:03Z,3113,Objective-C
+JailBreak-Detection,https://github.com/TheSwiftyCoder/JailBreak-Detection,Swift 3: Function to handle jailbreak detection on iOS ,2017-06-07T11:28:20Z,2020-05-25T08:28:00Z,39,Swift
+DTTJailbreakDetection,https://github.com/thii/DTTJailbreakDetection,A jailbreak detection library for iOS,2014-01-03T08:28:40Z,2020-05-26T10:43:04Z,181,Objective-C
+specleaks,https://github.com/leandromperez/specleaks,Unit Tests Memory Leaks in Swift. Write readable tests for mem leaks easily with these Quick and Nimble extensions.,2018-04-29T19:32:58Z,2020-05-16T10:42:18Z,134,Swift
+GPUImage2,https://github.com/BradLarson/GPUImage2,GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.,2016-04-16T17:16:16Z,2020-05-30T03:37:47Z,4407,Swift
+awesome-ios-interview,https://github.com/dashvlas/awesome-ios-interview,"📲 The curated list of iOS Developer interview questions and answers, Swift & Objective-C",2017-06-17T16:16:14Z,2020-05-30T07:34:12Z,589,
+SOTabBar,https://github.com/Ahmadalsofi/SOTabBar,Light way to add Fancy bottom bar 📲,2020-01-03T15:07:25Z,2020-05-29T12:45:22Z,325,Swift
+SOPullUpView,https://github.com/Ahmadalsofi/SOPullUpView," SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️",2019-12-03T12:22:59Z,2020-05-27T09:13:02Z,146,Swift
+metaballs,https://github.com/rnkyr/metaballs,Blob effect implementation with UIKIt,2020-03-26T16:21:48Z,2020-05-18T23:56:03Z,279,Swift
+RichTextView-Editor,https://github.com/tianxin333/RichTextView-Editor,通过UITextView实现富文本(bold、italic、underLine、deleteLine、addImage),2020-04-17T00:43:48Z,2020-05-29T08:00:37Z,4,Swift
+iina,https://github.com/iina/iina,The modern video player for macOS.,2016-12-19T07:18:45Z,2020-05-30T16:00:44Z,23928,Swift
+X-SwiftFormat,https://github.com/ruiaureliano/X-SwiftFormat,X-SwiftFormat extension for Xcode,2020-03-29T11:27:38Z,2020-05-29T18:39:18Z,512,Swift
+LoveLiver,https://github.com/mzp/LoveLiver,Create Apple's Live Photos from JPEG and MOV.,2015-10-11T04:19:43Z,2020-05-26T08:22:06Z,310,Swift
+Discovery,https://github.com/omergul/Discovery,A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).,2015-02-10T08:39:09Z,2020-04-27T11:31:43Z,407,Objective-C
+LLSimpleCamera,https://github.com/omergul/LLSimpleCamera,"A simple, customizable camera control - video recorder for iOS.",2014-11-18T13:05:26Z,2020-05-26T08:22:29Z,1195,Objective-C
+jazzy,https://github.com/realm/jazzy,Soulful docs for Swift & Objective-C,2014-06-06T05:52:11Z,2020-05-29T04:08:12Z,6512,Ruby
+ObjectForm,https://github.com/haojianzong/ObjectForm,A simple yet powerful Swift library to build form for your class models.,2020-02-29T00:19:12Z,2020-05-29T09:12:57Z,129,Swift
+Codextended,https://github.com/JohnSundell/Codextended,Extensions giving Swift's Codable API type inference super powers 🦸‍♂️🦹‍♀️,2019-04-06T23:33:12Z,2020-05-28T12:57:01Z,1154,Swift
+VIPERArchitectureGenerator,https://github.com/Cemoo/VIPERArchitectureGenerator,Generates files for your VIPER Architecture files.,2020-03-12T12:44:15Z,2020-04-16T17:50:49Z,10,Shell
+CleanSwiftArchitectureGenerator,https://github.com/emrcftci/CleanSwiftArchitectureGenerator,A generator of Clean Swift Architecture files,2019-11-05T05:47:41Z,2020-05-29T11:02:21Z,41,Shell
+CleanStore,https://github.com/Clean-Swift/CleanStore,A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.,2015-09-03T06:39:47Z,2020-05-30T00:17:00Z,1379,Swift
+crna-recipe,https://github.com/atolye15/crna-recipe,Step-by-step guide to bootstrap a React Native app from scratch,2019-04-08T10:37:50Z,2020-04-16T23:12:10Z,162,
+k2pdfopt,https://github.com/mo3rfan/k2pdfopt,Latest k2pdfopt from willus.com with cmake build fixes + Dockerfile 🐳,2018-07-01T05:47:18Z,2020-04-16T10:31:20Z,4,C
+swift-style-guide,https://github.com/raywenderlich/swift-style-guide,The official Swift style guide for raywenderlich.com.,2014-06-10T00:52:42Z,2020-05-30T19:31:50Z,10766,
+awesome-python-applications,https://github.com/mahmoud/awesome-python-applications,"💿 Free software that works great, and also happens to be open-source Python. ",2018-11-14T07:36:44Z,2020-05-30T20:27:54Z,11265,Jupyter Notebook
+satstuff,https://github.com/egemenimre/satstuff,"Bits and bobs regarding satellites. Python scripts and Jupyter notes, mainly.",2020-04-10T10:06:57Z,2020-04-27T13:24:21Z,10,Jupyter Notebook
+dhtcrawler2,https://github.com/btdig/dhtcrawler2,dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword,2018-05-16T16:15:23Z,2020-05-29T07:05:46Z,334,Batchfile
+RayWenderlichRXSwift,https://github.com/fzhao92/RayWenderlichRXSwift,rxswift lessons,2017-07-23T00:19:14Z,2020-05-03T23:26:08Z,22,Swift
+TabNine,https://github.com/codota/TabNine,The all-language autocompleter: https://tabnine.com/,2018-11-06T05:49:28Z,2020-05-30T13:23:26Z,6030,Shell
+3d-photo-inpainting,https://github.com/vt-vl-lab/3d-photo-inpainting,[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting,2020-04-08T15:31:45Z,2020-05-30T21:33:03Z,3139,Python
+TwicketSegmentedControl,https://github.com/twicketapp/TwicketSegmentedControl,"Custom UISegmentedControl replacement for iOS, written in Swift",2015-11-07T17:05:43Z,2020-05-29T12:34:01Z,1607,Swift
+RxSwift,https://github.com/ReactiveX/RxSwift,Reactive Programming in Swift,2015-04-07T21:25:17Z,2020-05-30T09:33:05Z,18475,Swift
+Alamofire,https://github.com/Alamofire/Alamofire,Elegant HTTP Networking in Swift,2014-07-31T05:56:19Z,2020-05-30T19:39:03Z,33604,Swift
+Locksmith,https://github.com/matthewpalmer/Locksmith,"A powerful, protocol-oriented library for working with the keychain in Swift.",2014-09-21T06:39:20Z,2020-05-26T09:23:11Z,2866,Swift
+Popover,https://github.com/corin8823/Popover,Popover is a balloon library like Facebook app. It is written in pure swift.,2015-08-19T13:50:23Z,2020-05-29T16:07:06Z,1791,Swift
+web-skills,https://github.com/andreasbm/web-skills,A visual overview of useful skills to learn as a web developer,2019-09-29T13:11:44Z,2020-05-30T19:15:15Z,2149,JavaScript
+TKSubmitTransition,https://github.com/entotsu/TKSubmitTransition,Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen,2015-08-07T07:56:58Z,2020-05-28T14:53:47Z,2229,Swift
+IQAudioRecorderController,https://github.com/hackiftekhar/IQAudioRecorderController,A drop-in universal library allows to record audio within the app with a nice User Interface.,2015-01-17T09:33:32Z,2020-05-29T08:15:47Z,606,Objective-C
+LinearProgressBar,https://github.com/Recouse/LinearProgressBar,Material Linear Progress Bar for your iOS apps,2018-03-09T11:06:06Z,2020-05-28T09:42:27Z,98,Swift
+merchantkit,https://github.com/benjaminmayo/merchantkit,A modern In-App Purchases management framework for iOS.,2017-04-24T10:35:20Z,2020-05-29T09:14:35Z,902,Swift
+rebook,https://github.com/pwang7/rebook,,2020-05-06T21:50:36Z,2020-05-30T19:48:38Z,12,Python
+CallingSwiftFromC,https://github.com/ingconti/CallingSwiftFromC,CallingSwiftFromC from time ideas on https://forums.swift.org/t/best-way-to-call-a-swift-function-from-c/9829,2020-01-20T11:50:00Z,2020-05-26T04:32:44Z,10,Swift
+CoreMLHelpers,https://github.com/hollance/CoreMLHelpers,Types and functions that make it a little easier to work with Core ML in Swift.,2017-08-05T21:27:08Z,2020-05-30T07:33:50Z,691,Swift
+gst-python,https://github.com/GStreamer/gst-python,GStreamer Python binding overrides (complementing the bindings provided by python-gi),2015-12-01T21:49:11Z,2020-05-28T22:27:25Z,81,Python
+GPUImage3,https://github.com/BradLarson/GPUImage3,GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.,2018-06-17T18:00:55Z,2020-05-28T05:43:06Z,1926,Swift
+TinyConsole,https://github.com/Cosmo/TinyConsole,"📱💬🚦 TinyConsole is a micro-console that can help you log and display information inside an iOS application, where having a connection to a development computer is not possible.",2016-11-28T15:42:54Z,2020-05-27T06:42:47Z,1872,Swift
+Teller-iOS,https://github.com/levibostian/Teller-iOS,iOS library that manages your app's cached data with ease.,2018-05-21T17:09:26Z,2020-05-23T13:40:11Z,9,Swift
+CocoaLumberjack,https://github.com/CocoaLumberjack/CocoaLumberjack,"A fast & simple, yet powerful & flexible logging framework for Mac and iOS",2011-03-31T02:38:39Z,2020-05-30T04:11:44Z,11967,Objective-C
+URWeatherView,https://github.com/jegumhon/URWeatherView,Show the weather effects onto view written in Swift4.2,2017-04-21T09:28:48Z,2020-05-24T13:56:31Z,433,Swift
+python-guide,https://github.com/realpython/python-guide,"Python best practices guidebook, written for humans. ",2011-03-15T03:24:20Z,2020-05-30T20:57:06Z,20925,Batchfile
+TSHAlphaVideos,https://github.com/calm/TSHAlphaVideos,Play mp4 videos with alpha background on iOS,2015-07-07T01:33:50Z,2020-05-20T13:00:35Z,52,Objective-C
+ffmpeg-python,https://github.com/kkroening/ffmpeg-python,Python bindings for FFmpeg - with complex filtering support,2017-05-14T05:25:44Z,2020-05-30T17:33:12Z,3641,Python
+reversi-ios,https://github.com/refactoring-challenge/reversi-ios,,2020-01-18T12:50:00Z,2020-05-30T17:17:59Z,92,Swift
+ioscreator,https://github.com/ioscreator/ioscreator,Tutorials from ioscreator.com,2013-03-19T14:04:17Z,2020-05-28T13:56:03Z,3560,Swift
+GRDB.swift,https://github.com/groue/GRDB.swift,"A toolkit for SQLite databases, with a focus on application development",2015-06-30T11:17:06Z,2020-05-29T09:54:01Z,2916,Swift
+swift,https://github.com/apple/swift,The Swift Programming Language,2015-10-23T21:15:07Z,2020-05-30T19:22:11Z,51820,C++
+SwiftUIFourierSeries,https://github.com/simonboots/SwiftUIFourierSeries,A Fourier Series visualisation written in Swift/SwiftUI,2019-11-04T11:18:38Z,2020-05-30T17:27:06Z,100,Swift
+Regex,https://github.com/kean/Regex,Open source regex engine,2019-08-10T10:17:34Z,2020-05-16T15:00:06Z,86,Swift
+behaviors,https://github.com/JuIioCesar/behaviors,🍎 Xcode behavior scripts supercharging your efficiency ,2017-08-06T22:07:47Z,2020-05-16T11:54:16Z,9,Shell
+SQLite.swift,https://github.com/stephencelis/SQLite.swift,"A type-safe, Swift-language layer over SQLite3.",2014-10-04T18:23:46Z,2020-05-30T23:10:35Z,6918,Swift
+fmdb,https://github.com/ccgus/fmdb,A Cocoa / Objective-C wrapper around SQLite,2010-07-06T22:50:17Z,2020-05-30T19:06:50Z,13364,Objective-C
+SwiftAudioPlayer,https://github.com/tanhakabir/SwiftAudioPlayer,Streaming and realtime audio manipulation with AVAudioEngine,2019-01-29T05:44:47Z,2020-05-27T03:12:32Z,79,Swift
+Timelane,https://github.com/icanzilb/Timelane,Timelane,2020-01-25T18:41:08Z,2020-05-28T21:11:15Z,402,Swift
+FDWaveformView,https://github.com/fulldecent/FDWaveformView,Reads an audio file and displays the waveform,2013-10-19T17:32:43Z,2020-05-28T18:58:50Z,896,Swift
+lunar-unity-console,https://github.com/SpaceMadness/lunar-unity-console,High-performance Unity iOS/Android logger built with native platform UI,2015-08-12T06:24:57Z,2020-05-30T13:18:19Z,523,Java
+Generic-TableView-DataSource,https://github.com/SandsHellCreations/Generic-TableView-DataSource,"Generic TableView datasource that can be used to populate any type of listing with single cell listing, sectional listing and useful to populate different type of cells in one section using protocol based models and Generics.",2019-07-15T18:16:13Z,2020-05-13T09:06:44Z,7,Swift
+InAppPurchase,https://github.com/jinSasaki/InAppPurchase,A Simple and Lightweight framework for In App Purchase,2017-09-05T07:07:09Z,2020-05-12T12:13:46Z,170,Swift
+PanSlip,https://github.com/k-lpmg/PanSlip,Use PanGesture to dismiss view on UIViewController and UIView,2019-06-11T16:57:58Z,2020-05-20T03:15:19Z,92,Swift
+CardsLayout,https://github.com/filletofish/CardsLayout,:star: Custom card-designed CollectionView layout,2017-11-02T23:07:13Z,2020-05-27T02:22:16Z,614,Swift
+Xcode-File-Template,https://github.com/batikansosun/Xcode-File-Template,Xcode File Template - New MVVM Module,2020-05-10T13:38:01Z,2020-05-12T00:07:03Z,2,
+swift-composable-architecture,https://github.com/pointfreeco/swift-composable-architecture,"A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",2020-05-03T23:18:40Z,2020-05-30T16:19:12Z,1550,Swift
+ShellOut,https://github.com/JohnSundell/ShellOut,Easily run shell commands from a Swift script or command line tool,2017-04-02T16:29:41Z,2020-05-25T19:30:56Z,473,Swift
+swift-format,https://github.com/apple/swift-format,Formatting technology for Swift source code,2019-07-09T21:07:52Z,2020-05-30T09:08:38Z,871,Swift
+PhotoStudioPlayer,https://github.com/banjun/PhotoStudioPlayer,iOS screen capture player for macOS with chroma key filter for starlight stage,2017-11-03T05:37:08Z,2020-05-26T14:45:22Z,107,Swift
+Filterpedia,https://github.com/FlexMonkey/Filterpedia,Core Image Filter Explorer & Showcase,2015-12-29T08:10:54Z,2020-05-30T04:38:02Z,2052,Swift
+Zip,https://github.com/marmelroy/Zip,Swift framework for zipping and unzipping files.,2015-12-13T18:34:14Z,2020-05-29T01:31:06Z,1797,Swift
+AudioPlayer,https://github.com/delannoyk/AudioPlayer,AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).,2015-04-27T19:42:29Z,2020-05-30T09:51:30Z,563,Swift
+ElasticTransition,https://github.com/lkzhao/ElasticTransition,A UIKit custom transition that simulates an elastic drag. Written in Swift.,2015-12-16T20:25:27Z,2020-05-29T19:35:48Z,2140,Swift
+ModernMVVM,https://github.com/V8tr/ModernMVVM,"A movie iOS app built with the MVVM architecture, Combine and SwiftUI frameworks https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/.",2020-03-12T14:53:38Z,2020-05-30T20:09:00Z,87,Swift
+Files,https://github.com/JohnSundell/Files,A nicer way to handle files & folders in Swift,2017-01-15T18:00:08Z,2020-05-30T10:55:10Z,1810,Swift
+setup-my-mac,https://github.com/pietrocaselani/setup-my-mac,Ansible configuration to setup my macOS,2019-06-18T19:25:31Z,2020-05-18T10:20:23Z,3,Shell
+CouchTracker,https://github.com/pietrocaselani/CouchTracker,iOS Trakt Client - Keep track of your favorite TV shows and movies on your iPhone. (Under development),2017-08-16T13:15:41Z,2020-05-21T21:12:06Z,36,Swift
+Table,https://github.com/ShawnBaek/Table,"print table on swift. print(table: [1, 2, 3])",2020-03-05T12:36:57Z,2020-05-27T17:35:37Z,53,Swift
+ar-cutpaste,https://github.com/cyrildiagne/ar-cutpaste,Cut and paste your surroundings using AR,2020-05-02T18:40:00Z,2020-05-30T19:15:49Z,9025,TypeScript
+NorthLayout,https://github.com/banjun/NorthLayout,The fast path to autolayout views in code,2015-05-09T15:48:33Z,2020-05-05T15:30:16Z,27,Swift
+rick-and-morty-api,https://github.com/afuh/rick-and-morty-api,The Rick and Morty API,2018-02-05T22:40:29Z,2020-05-26T17:52:09Z,363,JavaScript
+Karabiner-Elements,https://github.com/pqrs-org/Karabiner-Elements,Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.,2016-07-11T04:57:55Z,2020-05-30T19:05:35Z,10629,C++
+todolist-mvvm-rxswift,https://github.com/99ridho/todolist-mvvm-rxswift,Learning MVVM concepts with rxswift,2017-04-01T14:43:15Z,2020-04-24T17:52:23Z,18,Swift
+TestRxSwiftClosures,https://github.com/scotteg/TestRxSwiftClosures,tl;dr - Create a weak capture of self if accessing self in an Rx closure,2016-03-06T20:15:05Z,2020-05-26T10:26:10Z,7,Swift
+APAudioPlayer,https://github.com/Alterplay/APAudioPlayer,Drop-in iOS Audio Player built on top of BASS-library. ,2014-05-26T19:23:39Z,2020-04-24T11:29:31Z,178,C
+LSUnusedResources,https://github.com/tinymind/LSUnusedResources,A Mac App to find unused images and resources in XCode project.,2015-08-26T02:12:22Z,2020-05-30T11:17:21Z,2975,Objective-C
+Shiny,https://github.com/efremidze/Shiny,Iridescent Effect View (inspired by Apple Pay Cash) ✨,2017-12-09T03:14:14Z,2020-05-27T07:11:27Z,689,Swift
+Cluster,https://github.com/efremidze/Cluster,Easy Map Annotation Clustering 📍,2017-04-13T08:40:54Z,2020-05-30T13:00:21Z,1087,Swift
+Haptica,https://github.com/efremidze/Haptica,Easy Haptic Feedback Generator 📳,2017-03-31T22:09:07Z,2020-05-29T04:29:15Z,518,Swift
+VisualEffectView,https://github.com/efremidze/VisualEffectView,Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱,2016-05-26T18:24:29Z,2020-05-27T14:28:50Z,714,Swift
+Magnetic,https://github.com/efremidze/Magnetic,SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲,2017-03-09T02:15:43Z,2020-05-29T10:17:16Z,1130,Swift
+StatusAlert,https://github.com/LowKostKustomz/StatusAlert,Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.,2017-12-07T19:02:16Z,2020-05-24T15:42:48Z,727,Swift
+SBSAnimoji,https://github.com/simonbs/SBSAnimoji,🐵 Animoji app using Apples AvatarKit,2017-11-06T21:14:34Z,2020-05-25T07:02:26Z,862,Objective-C
+class-dump,https://github.com/nygard/class-dump,Generate Objective-C headers from Mach-O files.,2011-04-18T06:08:19Z,2020-05-29T03:32:32Z,2687,Objective-C
+iOS-Runtime-Headers,https://github.com/nst/iOS-Runtime-Headers,iOS Objective-C headers as derived from runtime introspection,2011-01-09T13:37:14Z,2020-05-30T08:30:07Z,7524,Objective-C
+RuntimeBrowser,https://github.com/nst/RuntimeBrowser,"Objective-C Runtime Browser, for Mac OS X and iOS",2011-03-22T23:54:06Z,2020-05-30T16:43:03Z,3113,Objective-C
+JailBreak-Detection,https://github.com/TheSwiftyCoder/JailBreak-Detection,Swift 3: Function to handle jailbreak detection on iOS ,2017-06-07T11:28:20Z,2020-05-25T08:28:00Z,39,Swift
+DTTJailbreakDetection,https://github.com/thii/DTTJailbreakDetection,A jailbreak detection library for iOS,2014-01-03T08:28:40Z,2020-05-26T10:43:04Z,181,Objective-C
+specleaks,https://github.com/leandromperez/specleaks,Unit Tests Memory Leaks in Swift. Write readable tests for mem leaks easily with these Quick and Nimble extensions.,2018-04-29T19:32:58Z,2020-05-16T10:42:18Z,134,Swift
+GPUImage2,https://github.com/BradLarson/GPUImage2,GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.,2016-04-16T17:16:16Z,2020-05-30T03:37:47Z,4407,Swift
+awesome-ios-interview,https://github.com/dashvlas/awesome-ios-interview,"📲 The curated list of iOS Developer interview questions and answers, Swift & Objective-C",2017-06-17T16:16:14Z,2020-05-30T07:34:12Z,589,
+SOTabBar,https://github.com/Ahmadalsofi/SOTabBar,Light way to add Fancy bottom bar 📲,2020-01-03T15:07:25Z,2020-05-29T12:45:22Z,325,Swift
+SOPullUpView,https://github.com/Ahmadalsofi/SOPullUpView," SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️",2019-12-03T12:22:59Z,2020-05-27T09:13:02Z,146,Swift
+metaballs,https://github.com/rnkyr/metaballs,Blob effect implementation with UIKIt,2020-03-26T16:21:48Z,2020-05-18T23:56:03Z,279,Swift
+RichTextView-Editor,https://github.com/tianxin333/RichTextView-Editor,通过UITextView实现富文本(bold、italic、underLine、deleteLine、addImage),2020-04-17T00:43:48Z,2020-05-29T08:00:37Z,4,Swift
+iina,https://github.com/iina/iina,The modern video player for macOS.,2016-12-19T07:18:45Z,2020-05-30T16:00:44Z,23928,Swift
+X-SwiftFormat,https://github.com/ruiaureliano/X-SwiftFormat,X-SwiftFormat extension for Xcode,2020-03-29T11:27:38Z,2020-05-29T18:39:18Z,512,Swift
+LoveLiver,https://github.com/mzp/LoveLiver,Create Apple's Live Photos from JPEG and MOV.,2015-10-11T04:19:43Z,2020-05-26T08:22:06Z,310,Swift
+Discovery,https://github.com/omergul/Discovery,A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).,2015-02-10T08:39:09Z,2020-04-27T11:31:43Z,407,Objective-C
+LLSimpleCamera,https://github.com/omergul/LLSimpleCamera,"A simple, customizable camera control - video recorder for iOS.",2014-11-18T13:05:26Z,2020-05-26T08:22:29Z,1195,Objective-C
+jazzy,https://github.com/realm/jazzy,Soulful docs for Swift & Objective-C,2014-06-06T05:52:11Z,2020-05-29T04:08:12Z,6512,Ruby
+ObjectForm,https://github.com/haojianzong/ObjectForm,A simple yet powerful Swift library to build form for your class models.,2020-02-29T00:19:12Z,2020-05-29T09:12:57Z,129,Swift
+Codextended,https://github.com/JohnSundell/Codextended,Extensions giving Swift's Codable API type inference super powers 🦸‍♂️🦹‍♀️,2019-04-06T23:33:12Z,2020-05-28T12:57:01Z,1154,Swift
+VIPERArchitectureGenerator,https://github.com/Cemoo/VIPERArchitectureGenerator,Generates files for your VIPER Architecture files.,2020-03-12T12:44:15Z,2020-04-16T17:50:49Z,10,Shell
+CleanSwiftArchitectureGenerator,https://github.com/emrcftci/CleanSwiftArchitectureGenerator,A generator of Clean Swift Architecture files,2019-11-05T05:47:41Z,2020-05-29T11:02:21Z,41,Shell
+CleanStore,https://github.com/Clean-Swift/CleanStore,A sample iOS app built using the Clean Swift architecture. Clean Swift is Uncle Bob's Clean Architecture applied to iOS and Mac projects. CleanStore demonstrates Clean Swift by implementing the create order use case described by in Uncle Bob's talks.,2015-09-03T06:39:47Z,2020-05-30T00:17:00Z,1379,Swift
+crna-recipe,https://github.com/atolye15/crna-recipe,Step-by-step guide to bootstrap a React Native app from scratch,2019-04-08T10:37:50Z,2020-04-16T23:12:10Z,162,
+k2pdfopt,https://github.com/mo3rfan/k2pdfopt,Latest k2pdfopt from willus.com with cmake build fixes + Dockerfile 🐳,2018-07-01T05:47:18Z,2020-04-16T10:31:20Z,4,C
+swift-style-guide,https://github.com/raywenderlich/swift-style-guide,The official Swift style guide for raywenderlich.com.,2014-06-10T00:52:42Z,2020-05-30T19:31:50Z,10766,
+awesome-python-applications,https://github.com/mahmoud/awesome-python-applications,"💿 Free software that works great, and also happens to be open-source Python. ",2018-11-14T07:36:44Z,2020-05-30T20:27:54Z,11265,Jupyter Notebook
+satstuff,https://github.com/egemenimre/satstuff,"Bits and bobs regarding satellites. Python scripts and Jupyter notes, mainly.",2020-04-10T10:06:57Z,2020-04-27T13:24:21Z,10,Jupyter Notebook
+dhtcrawler2,https://github.com/btdig/dhtcrawler2,dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword,2018-05-16T16:15:23Z,2020-05-29T07:05:46Z,334,Batchfile
+RayWenderlichRXSwift,https://github.com/fzhao92/RayWenderlichRXSwift,rxswift lessons,2017-07-23T00:19:14Z,2020-05-03T23:26:08Z,22,Swift
+TabNine,https://github.com/codota/TabNine,The all-language autocompleter: https://tabnine.com/,2018-11-06T05:49:28Z,2020-05-30T13:23:26Z,6030,Shell
+3d-photo-inpainting,https://github.com/vt-vl-lab/3d-photo-inpainting,[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting,2020-04-08T15:31:45Z,2020-05-30T21:33:03Z,3139,Python
+TwicketSegmentedControl,https://github.com/twicketapp/TwicketSegmentedControl,"Custom UISegmentedControl replacement for iOS, written in Swift",2015-11-07T17:05:43Z,2020-05-29T12:34:01Z,1607,Swift
+RxSwift,https://github.com/ReactiveX/RxSwift,Reactive Programming in Swift,2015-04-07T21:25:17Z,2020-05-30T09:33:05Z,18475,Swift
+Alamofire,https://github.com/Alamofire/Alamofire,Elegant HTTP Networking in Swift,2014-07-31T05:56:19Z,2020-05-30T19:39:03Z,33604,Swift
+Locksmith,https://github.com/matthewpalmer/Locksmith,"A powerful, protocol-oriented library for working with the keychain in Swift.",2014-09-21T06:39:20Z,2020-05-26T09:23:11Z,2866,Swift
+Popover,https://github.com/corin8823/Popover,Popover is a balloon library like Facebook app. It is written in pure swift.,2015-08-19T13:50:23Z,2020-05-29T16:07:06Z,1791,Swift
+web-skills,https://github.com/andreasbm/web-skills,A visual overview of useful skills to learn as a web developer,2019-09-29T13:11:44Z,2020-05-30T19:15:15Z,2149,JavaScript
+TKSubmitTransition,https://github.com/entotsu/TKSubmitTransition,Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen,2015-08-07T07:56:58Z,2020-05-28T14:53:47Z,2229,Swift
+SwiftyStoreKit,https://github.com/bizz84/SwiftyStoreKit,"Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺",2015-09-03T10:40:34Z,2020-05-30T22:32:56Z,4830,Swift
+KeyboardHelper,https://github.com/nodes-ios/KeyboardHelper,No more checking for keyboard notifications and parsing keyboard apperance info manually!,2016-01-26T15:47:23Z,2020-04-07T13:30:10Z,39,Swift
+Serpent,https://github.com/nodes-ios/Serpent,A protocol to serialize Swift structs and classes for encoding and decoding.,2016-02-09T15:10:04Z,2020-05-19T01:30:43Z,281,Swift
+Siren,https://github.com/ArtSabintsev/Siren,Notify users when a new version of your app is available and prompt them to upgrade.,2015-01-03T23:28:11Z,2020-05-29T08:33:34Z,3537,Swift
+SwiftPrettyPrint,https://github.com/YusukeHosonuma/SwiftPrettyPrint,Pretty print for Swift.,2020-02-14T02:52:10Z,2020-05-15T08:29:54Z,52,Swift
+TelegramSwift,https://github.com/overtake/TelegramSwift,Source code of Telegram for macos on Swift 5.0,2017-10-10T10:14:10Z,2020-05-29T21:05:50Z,2713,Swift
+Reusable,https://github.com/AliSoftware/Reusable,"A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, Storyboards…)",2016-01-19T19:49:55Z,2020-05-30T11:55:59Z,2436,Swift
+MockDuck,https://github.com/buzzfeed/MockDuck,"A network mocking layer for iOS, tvOS, and macOS",2018-08-27T19:00:23Z,2020-04-07T13:27:15Z,57,Swift
+Advance,https://github.com/timdonnelly/Advance,"Physics-based animations for iOS, tvOS, and macOS.",2016-02-12T22:20:07Z,2020-05-30T03:09:01Z,4369,Swift
+cineMAniac,https://github.com/glnygl/cineMAniac,Movie App - Swift,2018-09-19T07:17:37Z,2020-04-05T09:08:48Z,6,Swift
+terminal-snazzy,https://github.com/sindresorhus/terminal-snazzy,Elegant Terminal theme with bright colors,2016-10-26T07:02:48Z,2020-05-23T15:47:14Z,265,
+Transporter,https://github.com/DenTelezhkin/Transporter,Modern finite-state machine implemented in pure Swift,2014-07-06T17:14:43Z,2020-05-20T07:45:22Z,273,Swift
+SwiftFSM,https://github.com/vishalvshekkar/SwiftFSM,An extremely light-weight and generic Finite State Machine (FSM) implemented in Swift.,2016-10-25T19:41:44Z,2020-04-03T21:30:10Z,26,Swift
+AudioKit,https://github.com/AudioKit/AudioKit,"Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS",2014-01-21T08:16:07Z,2020-05-30T07:17:50Z,7544,C++
+kids-tunes-ios,https://github.com/assembleinc/kids-tunes-ios,"A sample Apple MusicKit project that demonstrates how to integrate Apple MusicKit with your iOS, Android or react app.",2019-06-06T04:03:03Z,2020-05-13T14:55:04Z,9,Swift
+zeplin-ios,https://github.com/relevantfruit/zeplin-ios,First unofficial community driven Zeplin iOS Application,2020-03-04T22:41:22Z,2020-05-29T09:31:15Z,30,Swift
+iOS-Sounds-and-Ringtones,https://github.com/CQH/iOS-Sounds-and-Ringtones,Lists all of the pre-installed system sounds on an iOS device from the /Library/Ringtones and /System/Library/Audio/UISounds folders and sub-folders. Includes a bookmarking feature to all one to easily find favorite sounds.,2015-05-28T07:55:27Z,2020-05-30T12:18:45Z,80,Swift
+so-simple-theme,https://github.com/mmistakes/so-simple-theme,A simple Jekyll theme for words and pictures.,2013-06-25T20:17:12Z,2020-05-27T07:24:01Z,1429,CSS
+Skeleton,https://github.com/gonzalonunez/Skeleton,💀 An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.,2017-02-16T00:49:36Z,2020-05-19T06:32:15Z,551,Swift
+NSAttributedStringBuilder,https://github.com/ethanhuang13/NSAttributedStringBuilder,Composing NSAttributedString with SwiftUI-style syntax,2019-07-09T10:47:03Z,2020-05-15T06:33:57Z,592,Swift
+ladybug,https://github.com/ethanhuang13/ladybug,Handle rdar:// links gracefully,2018-06-14T04:15:56Z,2020-05-16T11:32:18Z,155,Swift
+app,https://github.com/WorldHealthOrganization/app,COVID-19 App,2020-03-16T21:38:17Z,2020-05-30T18:56:09Z,1821,Dart
+elongation-preview,https://github.com/Ramotion/elongation-preview,:octocat: ElongationPreview is an elegant UI push-pop style view controller. iOS library made by @Ramotion - https://www.ramotion.com/agency/app-development/,2017-02-08T08:50:59Z,2020-05-26T06:50:53Z,862,Swift
+tesseract,https://github.com/tesseract-ocr/tesseract,Tesseract Open Source OCR Engine (main repository),2014-08-12T18:04:59Z,2020-05-30T23:24:12Z,34669,C++
+SwiftyMarkdown,https://github.com/SimonFairbairn/SwiftyMarkdown,Converts Markdown files and strings into NSAttributedStrings with lots of customisation options.,2016-03-05T09:09:08Z,2020-05-26T17:42:16Z,1160,Swift
+30DaysofSwift,https://github.com/allenwong/30DaysofSwift,A self-taught project to learn Swift.,2016-02-13T14:02:12Z,2020-05-30T08:02:53Z,11009,Swift
+swift-of-airbnb,https://github.com/yonasstephen/swift-of-airbnb,A self-taught project of learning Swift by making some of Airbnb's screens,2017-04-08T09:14:15Z,2020-05-27T08:46:17Z,455,Swift
+ReusableKit,https://github.com/devxoul/ReusableKit,Generic reusables for UICollectionView and UITableView,2016-05-25T15:53:42Z,2020-05-28T00:24:53Z,125,Swift
+FlickrSearch,https://github.com/TaeJoongYoon/FlickrSearch,"📸 iOS app, Searching Flickr with ReactorKit",2018-09-22T19:12:43Z,2020-05-18T21:43:39Z,30,Swift
+svg2asset,https://github.com/atomicbird/svg2asset,Bulk convert SVGs to an Xcode asset catalog,2020-03-24T22:57:33Z,2020-03-27T20:01:15Z,7,Swift
+clean-swift-article,https://github.com/exyte/clean-swift-article,,2018-06-06T12:17:04Z,2020-05-21T04:51:06Z,28,Swift
+ARTetris,https://github.com/exyte/ARTetris,Augmented Reality Tetris made with ARKit and SceneKit,2017-06-30T10:02:46Z,2020-05-29T15:22:37Z,1445,Swift
+LiquidSwipe,https://github.com/exyte/LiquidSwipe,Example of using SwiftUI to create a beautiful Liquid Swipe control,2019-08-14T07:09:41Z,2020-05-28T17:08:23Z,117,Swift
+fan-menu,https://github.com/exyte/fan-menu,Menu with a circular layout based on Macaw,2017-04-14T10:55:56Z,2020-05-23T11:39:14Z,527,Swift
+replicating,https://github.com/exyte/replicating,,2019-09-09T08:03:27Z,2020-05-26T03:33:23Z,132,Swift
+ReadabilityKit,https://github.com/exyte/ReadabilityKit,"Preview extractor for news, articles and full-texts in Swift",2016-06-08T13:20:48Z,2020-05-27T16:23:42Z,733,Swift
+ConcentricOnboarding,https://github.com/exyte/ConcentricOnboarding,SwiftUI library for a walkthrough or onboarding flow with tap actions,2019-09-09T08:21:56Z,2020-05-30T08:24:59Z,354,Swift
+FloatingButton,https://github.com/exyte/FloatingButton,Easily customizable floating button menu created with SwiftUI,2019-12-26T07:30:45Z,2020-05-27T16:20:09Z,141,Swift
+core-haptics-example,https://github.com/exyte/core-haptics-example,,2020-02-10T09:32:31Z,2020-03-27T19:57:09Z,7,Swift
+Macaw-Examples,https://github.com/exyte/Macaw-Examples,Various usages of the Macaw library,2016-11-01T12:01:56Z,2020-05-20T09:50:48Z,292,Swift
+Macaw,https://github.com/exyte/Macaw,Powerful and easy-to-use vector graphics Swift library with SVG support,2015-12-02T12:37:24Z,2020-05-30T23:12:05Z,5198,Swift
+ActivityIndicatorView,https://github.com/exyte/ActivityIndicatorView,A number of preset loading indicators created with SwiftUI,2020-03-19T12:11:30Z,2020-05-30T20:37:07Z,198,Swift
+KeyboardObserver,https://github.com/morizotter/KeyboardObserver,For less complicated keyboard event handling.,2015-12-13T19:57:33Z,2020-04-28T22:20:16Z,162,Swift
+SwiftyDrop,https://github.com/morizotter/SwiftyDrop,Lightweight dropdown message bar in Swift. It's simple and beautiful.,2015-06-20T19:24:00Z,2020-04-28T11:34:01Z,667,Swift
+SwiftFontName,https://github.com/morizotter/SwiftFontName,OS font complements library. Localized font supported.,2015-07-18T09:48:34Z,2020-05-03T19:50:01Z,112,Swift
+TouchVisualizer,https://github.com/morizotter/TouchVisualizer,Lightweight touch visualization library in Swift. A single line of code and visualize your touches!,2015-01-25T10:22:25Z,2020-05-13T19:13:18Z,748,Swift
+SQRichTextEditor,https://github.com/OneupNetwork/SQRichTextEditor,"A rich text WYSIWYG editor for iOS, which is based on Squire using HTML5 and javascript.",2019-12-17T07:17:04Z,2020-05-25T22:25:33Z,16,Swift
+secretive,https://github.com/maxgoedjen/secretive,Store SSH keys in the Secure Enclave,2020-02-19T03:34:45Z,2020-05-25T21:51:16Z,194,Swift
+RxKeyboard,https://github.com/RxSwiftCommunity/RxKeyboard,Reactive Keyboard in iOS,2016-10-09T20:42:20Z,2020-05-28T03:28:21Z,1185,Swift
+UITextView-Placeholder,https://github.com/devxoul/UITextView-Placeholder,A missing placeholder for UITextView,2014-12-10T15:18:38Z,2020-05-30T03:16:19Z,1237,Objective-C
+ReactorKit,https://github.com/ReactorKit/ReactorKit,A library for reactive and unidirectional Swift applications,2017-01-06T18:59:12Z,2020-05-30T05:48:52Z,1840,Swift
+SwiftyImage,https://github.com/devxoul/SwiftyImage,🎨 Generate image resources in Swift,2015-07-14T06:23:58Z,2020-05-29T01:07:56Z,930,Swift
+URLNavigator,https://github.com/devxoul/URLNavigator,⛵️ Elegant URL Routing for Swift,2016-02-07T09:14:17Z,2020-05-29T08:00:39Z,2386,Swift
+Then,https://github.com/devxoul/Then,✨ Super sweet syntactic sugar for Swift initializers,2015-12-24T08:29:37Z,2020-05-30T04:02:56Z,3164,Swift
+SceneKit-Resources,https://github.com/Saifullahsajid/SceneKit-Resources,"A curated list of amazing SceneKit tutorials, projects and resources. Feel free to contribute.",2020-03-10T18:14:48Z,2020-04-14T12:35:38Z,15,
+MediaBrowser,https://github.com/younatics/MediaBrowser,"🏞 A simple iOS photo and video browser with optional grid view, captions and selections written in Swift5.0",2017-09-05T14:01:32Z,2020-05-29T05:21:52Z,523,Swift
+YNDropDownMenu,https://github.com/younatics/YNDropDownMenu,✨ Awesome Dropdown menu for iOS with Swift 5.0,2017-02-19T12:53:02Z,2020-05-29T16:20:47Z,1235,Swift
+Highlighter,https://github.com/younatics/Highlighter,🖍 Highlight whatever you want! ,2017-05-04T14:28:07Z,2020-05-22T19:37:58Z,897,Swift
+newsletter,https://github.com/letswiftconf/newsletter,레츠스위프트 뉴스레터 아카이브,2020-02-07T11:47:23Z,2020-05-18T05:23:34Z,72,
+YNSearch,https://github.com/younatics/YNSearch,🔍 Awesome fully customize search view like Pinterest written in Swift 5.0 + Realm support!,2017-04-16T05:59:12Z,2020-05-23T19:36:16Z,1075,Swift
+MotionBook,https://github.com/younatics/MotionBook,📖 Awesome iOS UI/UX Application (Open Source),2017-02-09T12:59:27Z,2020-05-19T01:25:15Z,1369,Swift
+ExpandableCell,https://github.com/younatics/ExpandableCell,"✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 5",2017-08-06T13:48:53Z,2020-05-28T17:58:31Z,499,Swift
+YNExpandableCell,https://github.com/younatics/YNExpandableCell,"✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4",2017-03-11T00:56:17Z,2020-05-22T16:40:14Z,443,Swift
+checklist,https://github.com/atolye15/checklist,The protocols we follow for the things we cannot automate yet! ✅,2020-02-18T07:33:46Z,2020-05-29T00:39:23Z,173,TypeScript
+IndieSupportWeeks,https://github.com/JohnSundell/IndieSupportWeeks,A two-week effort to help support indie developers shipping apps on Apple's platforms who have been financially impacted by the COVID-19 pandemic.,2020-03-23T15:25:09Z,2020-05-25T16:41:43Z,180,
+swift-corelibs-xctest,https://github.com/apple/swift-corelibs-xctest,"The XCTest Project, A Swift core library for providing unit test support",2015-11-09T20:15:01Z,2020-05-30T23:12:42Z,822,Swift
+DynamicButton,https://github.com/yannickl/DynamicButton,Yet another animated flat buttons in Swift,2015-09-16T09:44:30Z,2020-05-27T06:01:25Z,1128,Swift
+PackageConfig,https://github.com/shibapm/PackageConfig,A Swift Package that allows you to define configuration settings inside a Package.swift,2018-11-04T13:18:48Z,2020-05-27T19:19:34Z,73,Swift
+infection-alert,https://github.com/unrelatedlabs/infection-alert,Apple watch app that give early infection alert based on resting heart rate,2020-03-11T23:45:45Z,2020-04-24T08:06:41Z,65,Swift
+ZippyZap,https://github.com/TimOliver/ZippyZap,"A ZIP file I/O library for macOS, tvOS, iOS and iPadOS",2016-04-20T09:18:30Z,2020-05-14T11:16:01Z,16,Objective-C
+CarBode-Barcode-Scanner-For-SwiftUI,https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI,CarBode : Free & Opensource barcode scanner & generator for SwiftUI,2019-10-07T12:43:07Z,2020-05-16T08:55:08Z,41,Swift
+Ballcap-iOS,https://github.com/1amageek/Ballcap-iOS,Firebase Cloud Firestore support library for iOS. 🧢,2018-09-20T07:20:59Z,2020-05-27T07:43:35Z,178,Swift
+BerkananLite,https://github.com/zssz/BerkananLite,"💬 Bluetooth-powered group messaging app for iOS, watchOS, tvOS, and macOS",2019-06-21T07:12:51Z,2020-05-08T05:51:34Z,40,Swift
+ARAnalytics,https://github.com/orta/ARAnalytics,Simplify your iOS/Mac analytics,2012-12-18T17:09:34Z,2020-05-26T03:48:22Z,1826,Objective-C
+DiffableDataSources,https://github.com/ra1028/DiffableDataSources,💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.,2019-06-14T22:19:57Z,2020-05-29T10:22:39Z,446,Swift
+SwiftConfettiView,https://github.com/ugurethemaydin/SwiftConfettiView,Swift Confetti View ! Who doesn't like confetti? 🎉🎉,2019-04-11T16:26:40Z,2020-05-11T04:45:39Z,148,Swift
+Foodium,https://github.com/PatilShreyas/Foodium," 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).",2020-03-16T10:07:05Z,2020-05-30T22:52:32Z,1204,Kotlin
+pure-swift-json,https://github.com/fabianfett/pure-swift-json,JSON encoding and decoding without the use of Foundation in pure Swift.,2020-02-21T08:17:15Z,2020-05-30T01:13:47Z,240,Swift
+30-seconds-of-code,https://github.com/30-seconds/30-seconds-of-code,Short JavaScript code snippets for all your development needs,2017-11-29T17:35:03Z,2020-05-30T19:11:26Z,56908,JavaScript
+SwiftMockGeneratorForXcode,https://github.com/seanhenry/SwiftMockGeneratorForXcode,An Xcode extension (plugin) to generate Swift test doubles automatically.,2017-08-19T06:15:47Z,2020-05-27T05:59:09Z,418,Objective-C
+xcode-open-on-github,https://github.com/wojteklu/xcode-open-on-github,Quick Actions for Xcode to jump to a source code line on Github or copy GitHub link to clipboard.,2019-12-14T12:21:06Z,2020-05-28T11:13:13Z,142,
+iowncode,https://github.com/anupamchugh/iowncode,"A curated collection of iOS, ML, AR resources sprinkled with some UI additions",2019-08-18T19:26:54Z,2020-05-28T00:28:42Z,256,Swift
+KeychainCracker,https://github.com/macmade/KeychainCracker,macOS keychain cracking tool,2017-05-20T14:13:44Z,2020-05-21T11:49:24Z,653,Objective-C
+FluentDarkModeKit,https://github.com/microsoft/FluentDarkModeKit,A library for backporting Dark Mode in iOS,2019-10-24T08:06:07Z,2020-05-29T17:51:04Z,1276,Swift
+Crescendo,https://github.com/SuprHackerSteve/Crescendo,"Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.",2020-03-05T21:57:03Z,2020-05-30T08:18:25Z,631,Swift
+quickstart-ios,https://github.com/firebase/quickstart-ios,Firebase Quickstart Samples for iOS,2016-04-26T17:13:37Z,2020-05-29T22:11:06Z,1934,Objective-C
+rxswift-to-combine-cheatsheet,https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet,RxSwift to Apple’s Combine Cheat Sheet,2019-06-08T11:07:58Z,2020-05-30T18:38:52Z,690,Ruby
+Down,https://github.com/iwasrobbed/Down,"Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.",2016-05-29T00:28:59Z,2020-05-29T14:31:03Z,1452,C
+Covidcheck,https://github.com/julianschiavo/Covidcheck,"Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface",2020-03-15T06:12:53Z,2020-05-15T15:13:50Z,261,Swift
+HGCircularSlider,https://github.com/HamzaGhazouani/HGCircularSlider,A custom reusable circular / progress slider control for iOS application.,2016-11-07T23:58:30Z,2020-05-30T13:28:30Z,1913,Swift
+HGRippleRadarView,https://github.com/HamzaGhazouani/HGRippleRadarView,"A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable ",2018-01-28T23:51:36Z,2020-05-29T19:41:15Z,277,Swift
+HGPlaceholders,https://github.com/HamzaGhazouani/HGPlaceholders,Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project,2017-07-21T14:56:34Z,2020-05-27T06:43:11Z,1855,Swift
+MVVM-C-Example,https://github.com/osama10/MVVM-C-Example,A sample project that shows the implementation of MVVM-C design pattern,2018-10-11T11:31:00Z,2020-03-22T04:33:41Z,21,Swift
+SwiftSingleton,https://github.com/hpique/SwiftSingleton,An exploration of the Singleton pattern in Swift,2014-06-10T04:57:25Z,2020-05-01T18:05:23Z,1146,Swift
+DateHelper,https://github.com/aboedo/DateHelper,A Swift Date extension helper,2018-01-10T01:26:11Z,2020-03-14T16:59:11Z,1,Swift
+ASCollectionView,https://github.com/apptekstudios/ASCollectionView,"A SwiftUI collection view with support for custom layouts, preloading, and more.",2019-10-07T05:37:57Z,2020-05-29T08:33:48Z,561,Swift
+COVID-19,https://github.com/CSSEGISandData/COVID-19,"Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",2020-02-04T22:03:53Z,2020-05-30T22:54:18Z,22496,
+SFSafeSymbols,https://github.com/piknotech/SFSafeSymbols,Safely access Apple's SF Symbols using static typing,2019-06-04T08:10:42Z,2020-05-27T09:34:03Z,408,Swift
+Sharpshooter,https://github.com/twostraws/Sharpshooter,A tiny Xcode extension for people who debug with print().,2017-10-15T22:05:11Z,2020-05-29T07:33:09Z,89,Swift
+Algorithm,https://github.com/CosmicMind/Algorithm,Algorithm is a library of tools that is used to create intelligent applications.,2016-01-24T18:42:08Z,2020-05-30T05:08:42Z,763,Swift
+Motion,https://github.com/CosmicMind/Motion,A library used to create beautiful animations and transitions for iOS.,2017-02-01T16:48:06Z,2020-05-28T16:24:34Z,1563,Swift
+butter-ios,https://github.com/butterproject/butter-ios,Butter for iOS,2015-10-31T02:07:19Z,2020-03-29T09:00:00Z,106,Swift
+SwiftUIPager,https://github.com/fermoya/SwiftUIPager,,2020-01-20T16:07:49Z,2020-05-29T18:43:24Z,139,Swift
+AssetsPickerViewController,https://github.com/DragonCherry/AssetsPickerViewController,Powerfully Customizable - Multiple Photo & Video Picker Controller,2017-05-17T01:46:11Z,2020-05-27T16:42:37Z,276,Swift
+time,https://github.com/davedelong/time,Building a better date/time library for Swift,2017-10-31T03:51:23Z,2020-05-25T13:01:43Z,1844,Swift
+CSV.swift,https://github.com/yaslab/CSV.swift,CSV reading and writing library written in Swift.,2016-06-10T17:10:57Z,2020-05-30T07:19:45Z,447,Swift
+Disk,https://github.com/saoudrizwan/Disk,"Delightful framework for iOS to easily persist structs, images, and data",2017-07-23T13:58:42Z,2020-05-30T21:43:14Z,2737,Swift
+PKHUD,https://github.com/Hengyu/PKHUD,"A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.",2020-02-22T10:00:55Z,2020-03-12T22:25:23Z,4,Swift
+FloatingPanel,https://github.com/SCENEE/FloatingPanel,A clean and easy-to-use floating panel UI component for iOS,2018-10-04T09:55:26Z,2020-05-30T09:19:40Z,3663,Swift
+CoronaTracker,https://github.com/mhdhejazi/CoronaTracker,Coronavirus tracker app for iOS & macOS with maps & charts,2020-03-07T22:38:27Z,2020-05-30T22:31:59Z,1167,Swift
+CareKit,https://github.com/carekit-apple/CareKit,CareKit is an open source software framework for creating apps that help people better understand and manage their health.,2016-04-14T21:12:24Z,2020-05-25T20:41:27Z,1867,Swift
+ResearchKit,https://github.com/ResearchKit/ResearchKit,ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.,2015-03-10T20:05:32Z,2020-05-29T14:18:19Z,5339,Objective-C
+Coordinator-MVVM-Rx-Example,https://github.com/uptechteam/Coordinator-MVVM-Rx-Example,Example of MVVM-C architecture implemented with RxSwift,2017-07-03T09:07:54Z,2020-05-28T01:37:38Z,442,Swift
+guncel-turkce-sozluk,https://github.com/ogun/guncel-turkce-sozluk,Türkçe Sözlük'ünün 11. baskısının gözden geçirilip güncellenmiş olarak genel ağdan sunulan sürümüdür.,2019-05-29T07:38:57Z,2020-05-19T18:55:23Z,17,TSQL
+SwiftMetrics,https://github.com/RuntimeTools/SwiftMetrics,"Swift Application Metrics instruments the Swift runtime for performance monitoring, providing the monitoring data programatically via an API or visually with an Eclipse Client.",2017-01-25T14:23:01Z,2020-05-13T14:38:07Z,138,Swift
+HWPopController,https://github.com/HeathWang/HWPopController,"pop up your ViewController with custom size, position and animations",2019-05-21T03:09:25Z,2020-05-28T14:22:02Z,86,Objective-C
+speedtest-cli,https://github.com/sivel/speedtest-cli,Command line interface for testing internet bandwidth using speedtest.net,2012-09-10T19:17:53Z,2020-05-30T20:34:13Z,9697,Python
+FontFit,https://github.com/joncardasis/FontFit,↔ Aspect-fit a font inside a view container.,2019-10-02T14:26:48Z,2020-05-27T03:49:19Z,23,Swift
+Arena,https://github.com/finestructure/Arena,Command line tool to create an Xcode project with a Playground and an SPM library ready for use,2019-12-19T08:23:28Z,2020-05-29T15:37:36Z,201,Swift
+RxTimelane,https://github.com/icanzilb/RxTimelane,Timelane + RxSwift,2020-02-28T09:24:00Z,2020-05-25T14:17:46Z,94,Swift
+MultipeerKit,https://github.com/insidegui/MultipeerKit,MultipeerConnectivity + Codable = ❤️,2020-02-28T15:57:34Z,2020-05-28T11:56:25Z,776,Swift
+pictshare,https://github.com/HaschekSolutions/pictshare,":camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:",2015-10-27T15:20:50Z,2020-05-29T04:39:50Z,511,PHP
+FittableFontLabel,https://github.com/tbaranes/FittableFontLabel,UILabel (extension or subclass) that adjust the font size to fit a frame,2016-03-27T16:21:51Z,2020-05-07T14:39:35Z,87,Swift
+Entwine,https://github.com/tcldr/Entwine,Testing tools and utilities for Apple's Combine framework.,2019-06-09T13:58:11Z,2020-05-30T23:18:37Z,181,Swift
+HypertextLiteral,https://github.com/NSHipster/HypertextLiteral,"Generate HTML, XML, and other web content using Swift string literal interpolation",2020-02-19T17:31:18Z,2020-05-18T11:03:55Z,209,Swift
+reddit-swiftui,https://github.com/carson-katri/reddit-swiftui,A cross-platform Reddit client built in SwiftUI,2019-07-29T01:48:20Z,2020-05-30T15:37:05Z,746,Swift
+swift-argument-parser,https://github.com/apple/swift-argument-parser,"Straightforward, type-safe argument parsing for Swift",2020-02-20T16:07:00Z,2020-05-30T22:13:18Z,1438,Swift
+Kotoba,https://github.com/willhains/Kotoba,Quickly search the built-in iOS dictionary to see definitions of words. Collect words you want to remember.,2014-12-07T04:45:16Z,2020-05-28T16:41:08Z,410,Swift
+SwiftCLI,https://github.com/jakeheis/SwiftCLI,A powerful framework for developing CLIs in Swift,2014-07-29T13:54:59Z,2020-05-25T16:30:09Z,612,Swift
+MarkdownAttributedString,https://github.com/chockenberry/MarkdownAttributedString,Adding Markdown support to NSAttributedString.,2020-02-23T01:34:25Z,2020-05-28T13:13:56Z,567,Objective-C
+KeyboardGuide,https://github.com/niw/KeyboardGuide,"A modern, real iOS keyboard system notifications handler framework that Just Works.",2020-02-26T15:11:42Z,2020-05-26T08:11:56Z,374,Swift
+Image-Frameworks-Benchmark,https://github.com/kean/Image-Frameworks-Benchmark,,2016-10-02T07:13:21Z,2020-03-13T08:51:43Z,54,Swift
+CalendarKit,https://github.com/richardtop/CalendarKit,📅 Fully customizable calendar for iOS and iPadOS,2015-10-19T13:45:05Z,2020-05-30T09:17:20Z,1443,Swift
+NeumorphismTab,https://github.com/touyou/NeumorphismTab,Custom TabBarController with Neumorphism.,2020-01-08T17:06:11Z,2020-05-24T15:25:50Z,54,Swift
+zsh-autosuggestions,https://github.com/zsh-users/zsh-autosuggestions,Fish-like autosuggestions for zsh,2013-10-26T16:09:37Z,2020-05-30T21:44:16Z,13552,Shell
+aiDee,https://github.com/aiFigueiredo/aiDee,Micro-framework to enable and facilitate the use of LocalAuthentication (Touch / Face ID) on your iOS Projects,2020-02-24T22:22:25Z,2020-05-25T19:07:15Z,132,Swift
+Brisk,https://github.com/twostraws/Brisk,A proof of concept scripting library for Swift,2020-02-24T15:54:26Z,2020-05-24T16:31:08Z,453,Swift
+explore,https://github.com/github/explore,Community-curated topic and collection pages on GitHub,2017-09-16T16:19:53Z,2020-05-30T17:50:00Z,1679,Ruby
+SegementSlide,https://github.com/Jiar/SegementSlide,Multi-tier UIScrollView nested scrolling solution. 😋😋😋,2018-12-07T11:26:43Z,2020-05-25T14:42:02Z,757,Swift
+swiftshield,https://github.com/rockbruno/swiftshield,🔒 Swift Obfuscator that protects iOS apps against reverse engineering attacks.,2017-01-18T21:18:35Z,2020-05-30T18:59:40Z,1269,Swift
+WhatsNewKit,https://github.com/CleanCocoa/WhatsNewKit,"macOS Dialog that displays ""What's New"" information after an app update",2018-06-27T06:31:55Z,2020-04-04T17:05:47Z,81,Swift
+UIGradient,https://github.com/dqhieu/UIGradient,"A simple and powerful library for using gradient layer, image, color",2017-12-07T08:46:31Z,2020-05-20T09:37:44Z,170,Swift
+ExpyTableView,https://github.com/okhanokbay/ExpyTableView,Make your table view expandable just by implementing one method.,2017-06-15T19:35:09Z,2020-05-21T13:28:14Z,309,Swift
+swift-enum-properties,https://github.com/pointfreeco/swift-enum-properties,🤝 Struct and enum data access in harmony.,2019-04-29T04:53:33Z,2020-05-28T15:03:29Z,172,Swift
+DeviceKit,https://github.com/devicekit/DeviceKit,DeviceKit is a value-type replacement of UIDevice.,2015-02-22T10:51:16Z,2020-05-29T12:15:33Z,2996,Swift
+CountryPicker,https://github.com/SURYAKANTSHARMA/CountryPicker,"A simple, customizable Country picker for picking country or dialing code. 🇮🇳 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧 ",2017-10-28T12:31:36Z,2020-05-30T14:06:34Z,119,Swift
+TimelineTableViewCell,https://github.com/kf99916/TimelineTableViewCell,Simple timeline view implemented by UITableViewCell,2016-10-20T09:09:38Z,2020-05-28T02:10:20Z,1121,Swift
+straw,https://github.com/maxgoedjen/straw,Live iOS Notifications in the Simulator.,2020-02-10T00:04:09Z,2020-05-04T14:35:20Z,199,Swift
+iOS-Debug-Hacks,https://github.com/aozhimin/iOS-Debug-Hacks,":dart: Advanced debugging skills used in the iOS project development process, involves the dynamic debugging, static analysis and decompile of third-party libraries. iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域",2017-06-09T09:36:08Z,2020-05-19T13:01:09Z,542,
+PanModal,https://github.com/slackhq/PanModal,An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.,2019-02-26T01:15:57Z,2020-05-30T07:36:17Z,2439,Swift
+swifter,https://github.com/httpswift/swifter,Tiny http server engine written in Swift programming language.,2014-06-06T17:07:31Z,2020-05-28T08:39:59Z,2948,Swift
+iOS-Developer-Roadmap,https://github.com/BohdanOrlov/iOS-Developer-Roadmap,Roadmap to becoming an iOS developer in 2018.,2018-02-18T16:50:01Z,2020-05-29T09:11:34Z,4411,Swift
+KZFileWatchers,https://github.com/krzysztofzablocki/KZFileWatchers,"A micro-framework for observing file changes, both local and remote. Helpful in building developer tools.",2016-08-08T09:00:27Z,2020-05-18T06:07:21Z,968,Swift
+Sourcery,https://github.com/krzysztofzablocki/Sourcery,"Meta-programming for Swift, stop writing boilerplate code.",2016-12-11T11:49:25Z,2020-05-30T20:21:07Z,5322,Swift
+Xclean,https://github.com/macmade/Xclean,,2020-02-13T10:25:31Z,2020-05-05T15:50:23Z,153,Swift
+UTM,https://github.com/utmapp/UTM,Virtual machines for iOS,2019-04-12T16:09:24Z,2020-05-30T21:43:53Z,4802,Objective-C
+Sourceful,https://github.com/twostraws/Sourceful,A syntax highlighting source editor for iOS and macOS using UITextView and NSTextView.,2019-04-16T11:38:38Z,2020-05-30T21:23:01Z,292,Swift
+GSKStretchyHeaderView,https://github.com/gskbyte/GSKStretchyHeaderView,A generic stretchy header for UITableView and UICollectionView,2016-02-27T14:30:08Z,2020-05-26T12:54:12Z,1484,Objective-C
+LSAnimator,https://github.com/Lision/LSAnimator,⛓ Easy to Read and Write Multi-chain Animations Lib in Objective-C and Swift.,2017-05-03T01:56:37Z,2020-05-28T03:23:40Z,1521,Objective-C
+Render,https://github.com/alexdrone/Render,UIKit a-là SwiftUI.framework [min deployment target iOS10],2016-04-13T08:39:19Z,2020-05-29T07:26:21Z,2063,Swift
+Pisth,https://github.com/ColdGrub1384/Pisth,SSH and SFTP client for iOS,2017-12-25T14:23:01Z,2020-05-25T08:53:20Z,241,Swift
+swift-algorithm-club,https://github.com/raywenderlich/swift-algorithm-club,"Algorithms and data structures in Swift, with explanations!",2016-01-26T17:56:12Z,2020-05-30T18:46:22Z,22964,Swift
+iOSSampleApp,https://github.com/igorkulman/iOSSampleApp,"Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding",2017-10-03T08:26:16Z,2020-05-25T18:40:21Z,395,Swift
+Pages,https://github.com/hyperoslo/Pages,:page_facing_up: UIPageViewController made simple,2015-04-10T11:05:11Z,2020-05-20T16:39:25Z,461,Swift
+Pageboy,https://github.com/uias/Pageboy,"📖 A simple, highly informative page view controller",2017-01-04T10:38:00Z,2020-05-29T12:39:28Z,1457,Swift
+Tabman,https://github.com/uias/Tabman,™️ A powerful paging view controller with interactive indicator bars,2017-02-17T13:30:00Z,2020-05-30T12:14:21Z,1841,Swift
+Parchment,https://github.com/rechsteiner/Parchment,A paging view controller with a highly customizable menu ✨,2016-03-13T15:04:27Z,2020-05-30T04:44:32Z,2151,Swift
+RainyRefreshControl,https://github.com/Onix-Systems/RainyRefreshControl,Simple refresh control for iOS based on SpriteKit and Core Graphics,2016-11-21T15:29:42Z,2020-05-11T09:14:19Z,687,Swift
+Presentation,https://github.com/hyperoslo/Presentation,":bookmark_tabs: Presentation helps you to make tutorials, release notes and animated pages.",2015-04-09T10:53:05Z,2020-05-29T21:37:23Z,2928,Swift
+GSPlayer,https://github.com/wxxsw/GSPlayer,"⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层",2016-04-26T04:49:25Z,2020-05-27T05:21:41Z,61,Swift
+ASPVideoPlayer,https://github.com/andreipitis/ASPVideoPlayer,A simple video player that allow animations to be performed on the view during playback.,2016-06-18T00:00:40Z,2020-05-18T09:20:56Z,69,Swift
+AXPhotoViewer,https://github.com/alexhillc/AXPhotoViewer,"An iOS/tvOS photo gallery viewer, useful for viewing a large (or small!) number of photos.",2017-05-08T03:31:13Z,2020-05-17T15:34:21Z,507,Swift
+CollectionViewPagingLayout,https://github.com/amirdew/CollectionViewPagingLayout,a simple but highly customizable paging layout for UICollectionView.,2019-12-26T13:43:27Z,2020-05-30T02:14:39Z,422,Swift
+GridView,https://github.com/KyoheiG3/GridView,"Reusable GridView with excellent performance and customization that can be time table, spreadsheet,  paging and more.",2016-11-26T06:45:43Z,2020-05-28T13:49:31Z,746,Swift
+BouncyPageViewController,https://github.com/BohdanOrlov/BouncyPageViewController,Page view controller with bounce effect,2016-10-16T12:05:08Z,2020-05-04T13:43:03Z,817,Swift
+CRRefresh,https://github.com/CRAnimation/CRRefresh,An easy way to use pull-to-refresh,2017-03-13T02:31:07Z,2020-05-23T12:47:50Z,759,Swift
+PullToMakeSoup,https://github.com/Yalantis/PullToMakeSoup,Custom animated pull-to-refresh that can be easily added to UIScrollView,2015-05-21T16:00:32Z,2020-05-28T14:49:55Z,1908,Objective-C
+GIFRefreshControl,https://github.com/delannoyk/GIFRefreshControl,GIFRefreshControl is a pull to refresh that supports GIF images as track animations.,2015-05-24T12:32:31Z,2020-05-06T16:24:35Z,161,Swift
+balloon-picker,https://github.com/Cuberto/balloon-picker,,2019-06-06T17:57:30Z,2020-05-30T03:36:15Z,237,Swift
+hacker-laws,https://github.com/dwmkerr/hacker-laws,"💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws",2018-01-25T03:46:34Z,2020-05-30T22:15:08Z,14849,
+BulletinBoard,https://github.com/alexaubry/BulletinBoard,General-purpose contextual cards for iOS,2017-09-26T07:43:43Z,2020-05-30T17:15:02Z,4733,Swift
+docker-flask-mongodb-example,https://github.com/danionescu0/docker-flask-mongodb-example,Uses docker compose with a python flask microservice and MongoDB instance to make a sample application,2016-12-03T19:36:09Z,2020-05-28T00:27:36Z,35,Python
+TermKit,https://github.com/migueldeicaza/TermKit,Terminal Kit - Console UI toolkit for Swift applications,2019-04-05T21:15:09Z,2020-05-29T10:44:38Z,215,Swift
+Time,https://github.com/dreymonde/Time,"🕰 Type-safe time calculations in Swift, powered by generics",2017-08-03T06:36:40Z,2020-05-26T12:32:32Z,1014,Swift
+DefaultsKit,https://github.com/nmdias/DefaultsKit,"Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS",2017-08-19T14:51:15Z,2020-05-26T12:35:33Z,1289,Swift
+quicktype-xcode,https://github.com/quicktype/quicktype-xcode,"Xcode extension to paste JSON as Swift, Objective-C, and more",2017-12-22T08:04:17Z,2020-05-27T09:37:39Z,1625,JavaScript
+material-motion-swift,https://github.com/material-motion/material-motion-swift,A toolkit for building responsive motion using Core Animation.,2016-12-07T03:01:17Z,2020-05-30T15:28:29Z,1394,Swift
+Dotzu,https://github.com/remirobert/Dotzu,":iphone::eyes: In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.",2017-02-01T21:31:38Z,2020-05-28T09:41:44Z,1804,Swift
+FengNiao,https://github.com/onevcat/FengNiao,A command line tool for cleaning unused resources in Xcode.,2017-03-07T02:20:20Z,2020-05-28T09:46:30Z,2484,Swift
+NotificationBanner,https://github.com/Daltron/NotificationBanner,The easiest way to display highly customizable in app notification banners in iOS,2017-03-30T00:08:49Z,2020-05-28T15:46:40Z,3739,Swift
+SwiftKotlin,https://github.com/angelolloqui/SwiftKotlin,A tool to convert Swift code to Kotlin.,2016-09-12T10:36:51Z,2020-05-30T15:56:32Z,2653,Swift
+SpreadsheetView,https://github.com/kishikawakatsumi/SpreadsheetView,"Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.",2017-05-11T08:05:23Z,2020-05-29T09:46:25Z,3102,HTML
+Gemini,https://github.com/shoheiyokoyama/Gemini,"Gemini is rich scroll based animation framework for iOS, written in Swift.",2017-06-10T08:00:56Z,2020-05-29T21:35:30Z,2792,Swift
+spruce-ios,https://github.com/willowtreeapps/spruce-ios,Swift library for choreographing animations on the screen.,2016-11-15T19:50:59Z,2020-05-30T15:29:16Z,2915,Swift
+panelkit,https://github.com/louisdh/panelkit,A UI framework that enables panels on iOS.,2017-02-20T21:36:25Z,2020-05-27T06:00:56Z,3855,Swift
+ARKit-CoreLocation,https://github.com/ProjectDent/ARKit-CoreLocation,Combines the high accuracy of AR with the scale of GPS data.,2017-07-15T18:29:21Z,2020-05-29T19:33:06Z,4765,Swift
+SkeletonView,https://github.com/Juanpe/SkeletonView,☠️ An elegant way to show users that something is happening and also prepare them to which contents he is waiting,2017-11-07T19:05:28Z,2020-05-29T20:47:55Z,9050,Swift
+Lona,https://github.com/airbnb/Lona,"A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.",2017-10-11T23:05:08Z,2020-05-28T20:02:25Z,7108,Swift
+GMStepper,https://github.com/gmertk/GMStepper,A stepper with a sliding label in the middle.,2015-07-01T10:32:49Z,2020-05-30T08:47:20Z,809,Swift
+GaugeSlider,https://github.com/edgar-zigis/GaugeSlider,Highly customizable GaugeSlider designed for a Smart Home app. Featured at Medium.,2019-08-23T20:58:03Z,2020-05-24T05:32:33Z,73,Swift
+sasha,https://github.com/artemnovichkov/sasha,👨‍💼Reduce daily routine with sasha,2017-08-24T09:53:07Z,2020-02-17T08:06:08Z,28,Swift
+JTAppleCalendar,https://github.com/patchthecode/JTAppleCalendar,The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable,2016-03-16T11:48:23Z,2020-05-29T13:38:55Z,6560,Swift
+VYPlayIndicator,https://github.com/docterd/VYPlayIndicator,PlayIndicator inspired by Apple's Music Player.,2015-05-08T14:09:25Z,2020-03-16T14:38:39Z,45,Objective-C
+PresentHalfModal,https://github.com/khuong291/PresentHalfModal,Source code to help this issue: https://stackoverflow.com/questions/29219688/present-modal-view-controller-in-half-size-parent-controller/45525284#45525284,2017-08-05T18:24:59Z,2020-05-27T03:48:46Z,18,Swift
+AHDownloadButton,https://github.com/amerhukic/AHDownloadButton,Customizable download button with progress and transition animations. It is based on Apple's App Store download button.,2018-09-09T08:19:22Z,2020-05-27T08:06:12Z,311,Swift
+SwiftyBeaver,https://github.com/SwiftyBeaver/SwiftyBeaver,"Convenient & secure logging during development & release in Swift 3, 4 & 5",2015-11-28T14:08:37Z,2020-05-30T12:36:34Z,4785,Swift
+ControlRoom,https://github.com/twostraws/ControlRoom,A macOS app to control the Xcode Simulator.,2020-02-12T19:01:22Z,2020-05-30T20:32:49Z,2948,Swift
+TORoundedButton,https://github.com/TimOliver/TORoundedButton,A high-performance button control with rounded corners for iOS.,2019-04-20T12:12:53Z,2020-05-30T11:25:56Z,424,Objective-C
+libsoundio,https://github.com/andrewrk/libsoundio,C library for cross-platform real-time audio input and output,2015-06-30T21:14:56Z,2020-05-30T21:07:36Z,1139,C
+DifferenceKit,https://github.com/ra1028/DifferenceKit,💻 A fast and flexible O(n) difference algorithm framework for Swift collection.,2018-08-03T12:29:06Z,2020-05-30T13:30:07Z,2477,Swift
+MarqueeLabel,https://github.com/cbpowell/MarqueeLabel,"A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame",2011-02-01T02:23:03Z,2020-05-29T02:52:16Z,3237,Swift
+GitUp,https://github.com/git-up/GitUp,The Git interface you've been missing all your life has finally arrived.,2015-08-13T04:11:10Z,2020-05-30T04:13:11Z,9024,Objective-C
+Sitrep,https://github.com/twostraws/Sitrep,A source code analyzer for Swift projects.,2020-02-06T21:32:23Z,2020-05-28T00:54:05Z,675,Swift
+MSBBarChart,https://github.com/misyobun/MSBBarChart,MSBBarChart is an easy to use bar chart library for iOS,2020-02-04T07:08:09Z,2020-05-21T08:12:02Z,34,Swift
+ASCollectionView,https://github.com/abdullahselek/ASCollectionView,Lightweight custom collection view inspired by Airbnb.,2016-07-09T13:49:54Z,2020-05-26T19:44:24Z,232,Swift
+Swiftgger,https://github.com/mczachurski/Swiftgger,OpenAPI support for server side Swift projects.,2018-03-25T16:44:41Z,2020-05-08T11:51:51Z,82,Swift
+IGListKit,https://github.com/Instagram/IGListKit,A data-driven UICollectionView framework for building fast and flexible lists.,2016-09-07T08:39:27Z,2020-05-30T09:09:26Z,11181,Objective-C
+MessageKit,https://github.com/MessageKit/MessageKit,A community-driven replacement for JSQMessagesViewController,2017-07-17T19:56:13Z,2020-05-30T17:56:06Z,4162,Swift
+TipSee,https://github.com/farshadjahanmanesh/TipSee,"a lightweights, highly customizable hint library for Swift",2019-08-14T08:20:45Z,2020-05-26T13:56:22Z,84,Swift
+fluid-interfaces,https://github.com/nathangitter/fluid-interfaces,"Natural gestures and animations inspired by Apple's WWDC18 talk ""Designing Fluid Interfaces""",2018-07-08T14:48:27Z,2020-05-29T15:24:47Z,2352,Swift
+DKChainableAnimationKit,https://github.com/draveness/DKChainableAnimationKit,A DSL to make animation easy on iOS with Swift.,2015-05-14T03:37:22Z,2020-05-23T19:26:41Z,1905,Swift
+Ease,https://github.com/roberthein/Ease,It's magic.,2017-12-13T18:24:55Z,2020-05-29T21:20:37Z,1184,Swift
+IBPCollectionViewCompositionalLayout,https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout,Backport of UICollectionViewCompositionalLayout to earlier iOS 12,2019-08-06T14:46:26Z,2020-05-29T14:38:55Z,764,Swift
+CarLens-iOS,https://github.com/netguru/CarLens-iOS,CarLens - Recognize and Collect Cars,2018-05-29T09:54:19Z,2020-05-18T00:05:20Z,111,Swift
+CarLensCollectionViewLayout,https://github.com/netguru/CarLensCollectionViewLayout,An easy-to-use Collection View Layout for card-like animation.,2018-12-20T14:28:00Z,2020-05-28T03:43:55Z,432,Swift
+SFFocusViewLayout,https://github.com/fdzsergio/SFFocusViewLayout,UICollectionViewLayout with focused content,2015-10-07T11:22:14Z,2020-05-27T14:27:58Z,1734,Swift
+VegaScroll,https://github.com/ApplikeySolutions/VegaScroll,"↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.",2017-09-05T14:50:57Z,2020-05-26T07:41:40Z,2388,Swift
+BouncyLayout,https://github.com/roberthein/BouncyLayout,Make. It. Bounce.,2017-04-23T12:12:31Z,2020-05-30T15:28:59Z,3688,Swift
+CollectionViewSlantedLayout,https://github.com/yacir/CollectionViewSlantedLayout,A CollectionView Layout displaying a slanted cells,2016-02-29T23:20:17Z,2020-05-27T15:05:14Z,1686,Swift
+TKSwitcherCollection,https://github.com/TBXark/TKSwitcherCollection,An animation switch collection,2015-10-26T08:19:54Z,2020-05-28T04:24:27Z,817,Swift
+AnimatedTextInput,https://github.com/jobandtalent/AnimatedTextInput,Animated UITextField and UITextView replacement for iOS,2016-07-30T05:35:17Z,2020-05-28T08:49:31Z,707,Swift
+SkyFloatingLabelTextField,https://github.com/Skyscanner/SkyFloatingLabelTextField,"A beautiful and flexible text field control implementation of  ""Float Label Pattern"". Written in Swift.",2015-12-21T08:40:49Z,2020-05-30T18:26:19Z,3644,Swift
+SectionedSlider,https://github.com/LeonardoCardoso/SectionedSlider,iOS 11 Control Center Slider,2017-06-06T12:23:36Z,2020-05-27T05:22:59Z,302,Swift
+SJFluidSegmentedControl,https://github.com/sasojadrovski/SJFluidSegmentedControl,A segmented control with custom appearance and interactive animations. Written in Swift 3.0.,2016-10-05T21:39:39Z,2020-05-24T05:36:35Z,844,Swift
+reel-search,https://github.com/Ramotion/reel-search,:octocat: 🔍 RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion - https://www.ramotion.com/agency/app-development/,2015-04-02T08:51:50Z,2020-05-25T18:57:50Z,2469,Swift
+folding-cell,https://github.com/Ramotion/folding-cell,:octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion - https://www.ramotion.com/agency/app-development/,2015-12-21T14:29:48Z,2020-05-30T16:33:21Z,9701,Swift
+MPParallaxView,https://github.com/DroidsOnRoids/MPParallaxView,Apple TV Parallax effect in Swift.,2015-11-08T13:38:28Z,2020-05-24T05:39:51Z,1679,Swift
+tispr-card-stack,https://github.com/tispr/tispr-card-stack,"Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI",2015-07-14T21:29:26Z,2020-05-01T00:51:10Z,770,Swift
+Koloda,https://github.com/Yalantis/Koloda,KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. ,2015-07-02T16:32:08Z,2020-05-29T13:33:37Z,4666,Swift
+Cards,https://github.com/PaoloCuscela/Cards,Awesome iOS 11 appstore cards in swift 5.,2017-10-10T17:37:26Z,2020-05-30T17:03:34Z,3826,Swift
+CHIPageControl,https://github.com/ChiliLabs/CHIPageControl,A set of cool animated page controls written in Swift to replace boring UIPageControl. Mady by @ChiliLabs - https://chililabs.io,2017-03-13T12:15:14Z,2020-05-27T14:26:03Z,2485,Swift
+Learn-iOS-Swift-by-Examples,https://github.com/Lax/Learn-iOS-Swift-by-Examples,精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验,2014-06-03T07:15:28Z,2020-05-30T08:36:12Z,3218,Swift
+EMTNeumorphicView,https://github.com/hirokimu/EMTNeumorphicView,UIKit views with Neumorphism style design.,2020-01-22T02:25:07Z,2020-05-30T04:40:35Z,177,Swift
+SwiftSemantics,https://github.com/SwiftDocOrg/SwiftSemantics,Parses Swift code into its constituent declarations,2020-01-22T12:20:17Z,2020-05-19T11:23:10Z,110,Swift
+swift-crypto,https://github.com/apple/swift-crypto,Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.,2019-07-23T18:36:09Z,2020-05-28T13:55:33Z,824,Swift
+Piano,https://github.com/saoudrizwan/Piano,Easily play combinations of sound effects and Taptic Engine vibrations on iOS.,2017-09-11T16:50:58Z,2020-05-20T06:44:53Z,189,Swift
+swift-numerics,https://github.com/apple/swift-numerics,Numerical APIs for Swift,2018-07-16T23:29:41Z,2020-05-30T07:40:16Z,763,Swift
+MonitorControl,https://github.com/the0neyouseek/MonitorControl,🖥 Control your external monitor brightness & volume on your Mac,2017-09-16T21:13:40Z,2020-05-30T15:25:46Z,2627,Swift
+ViewAnimator,https://github.com/marcosgriselli/ViewAnimator,ViewAnimator brings your UI to life with just one line,2017-10-06T15:58:05Z,2020-05-29T21:42:16Z,5813,Swift
+Material,https://github.com/CosmicMind/Material,A UI/UX framework for creating beautiful applications.,2015-08-22T16:21:53Z,2020-05-30T14:35:17Z,11503,Swift
+AnimatedCollectionViewLayout,https://github.com/KelvinJin/AnimatedCollectionViewLayout,A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.,2017-02-08T06:57:03Z,2020-05-30T04:01:57Z,3882,Swift
+PopMenu,https://github.com/CaliCastle/PopMenu,A fully customizable popup style menu for iOS 😎,2018-04-12T23:35:22Z,2020-05-30T17:29:17Z,987,Swift
+SPPermissions,https://github.com/ivanvorobei/SPPermissions,"Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.",2017-02-16T17:49:57Z,2020-05-30T10:00:43Z,3914,Swift
+SPAlert,https://github.com/ivanvorobei/SPAlert,"Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.",2019-04-28T13:03:40Z,2020-05-30T18:42:41Z,745,Swift
+SPLarkController,https://github.com/ivanvorobei/SPLarkController,Custom transition between controllers. Settings controller for your iOS app.,2019-02-24T09:28:05Z,2020-05-29T16:23:42Z,585,Swift
+Transition,https://github.com/Touchwonders/Transition,Easy interactive interruptible custom ViewController transitions,2017-03-13T15:31:36Z,2020-05-28T13:36:12Z,2346,Swift
+awesome-ios-ui,https://github.com/ivanvorobei/awesome-ios-ui,A collaborative list of awesome UI & Animation only in Swift. Include quick preview.,2019-06-01T09:39:24Z,2020-05-30T19:05:34Z,845,Swift
+SwiftUI,https://github.com/ivanvorobei/SwiftUI,"Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.",2019-06-04T13:53:17Z,2020-05-30T22:15:50Z,2351,Swift
+SPStorkController,https://github.com/ivanvorobei/SPStorkController,"Now playing controller from Apple Music, Mail & Podcasts Apple's apps.",2018-11-27T11:51:50Z,2020-05-30T22:03:24Z,2168,Swift
+Coordinator,https://github.com/radianttap/Coordinator,Implementation of Coordinators app design pattern.,2016-11-23T13:07:37Z,2020-05-29T10:56:07Z,575,Swift
+ResponseDetective,https://github.com/netguru/ResponseDetective,Sherlock Holmes of the networking layer. :male_detective:,2015-06-02T11:36:01Z,2020-05-25T00:28:05Z,1878,Swift
+Sniffer,https://github.com/Kofktu/Sniffer,Networking activity logger for Swift,2017-02-15T05:15:07Z,2020-05-20T09:48:22Z,104,Swift
+Bagel,https://github.com/yagiz/Bagel,a little native network debugging tool for iOS,2017-05-12T11:22:19Z,2020-05-30T10:25:09Z,3500,Swift
+paper-switch,https://github.com/Ramotion/paper-switch,:octocat: 🎚 RAMPaperSwitch is a Swift material design UI module which paints over the parent view when the switch is turned on. iOS library by @Ramotion - https://www.ramotion.com/agency/app-development/,2014-11-26T09:26:50Z,2020-05-29T19:34:28Z,2782,Swift
+Nuke,https://github.com/kean/Nuke,Powerful image loading and caching system,2015-03-11T10:53:26Z,2020-05-30T22:05:18Z,4992,Swift
+ChartView,https://github.com/AppPear/ChartView,ChartView made in SwiftUI,2019-06-12T18:38:58Z,2020-05-30T20:22:25Z,1706,Swift
+handsomeIOS,https://github.com/mohammadZ74/handsomeIOS,"list of best iOS Articles,Videos,Blogs in my iOS Journey",2018-07-25T07:13:02Z,2020-05-25T09:17:44Z,102,
+XCoordinator,https://github.com/quickbirdstudios/XCoordinator,🎌 Powerful navigation library for iOS based on the coordinator pattern,2018-07-16T10:14:32Z,2020-05-30T09:25:10Z,1353,Swift
+CollectionKit,https://github.com/SoySauceLab/CollectionKit,Reimagining UICollectionView,2017-07-22T21:06:01Z,2020-05-29T08:39:09Z,3829,Swift
+CommandLine,https://github.com/jatoben/CommandLine,A pure Swift library for creating command-line interfaces,2014-08-03T00:55:27Z,2020-04-29T02:55:03Z,1104,Swift
+Hero,https://github.com/HeroTransitions/Hero,Elegant transition library for iOS & tvOS,2016-11-24T18:49:37Z,2020-05-30T17:28:47Z,18456,Swift
+AloeStackView,https://github.com/airbnb/AloeStackView,"A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.",2018-10-09T06:11:44Z,2020-05-28T13:10:39Z,2756,Swift
+MagazineLayout,https://github.com/airbnb/MagazineLayout,A collection view layout capable of laying out views in vertically scrolling grids and lists.,2018-11-16T22:16:03Z,2020-05-29T04:56:57Z,2678,Swift
+DraggableYoutubeFloatingVideo,https://github.com/vizllx/DraggableYoutubeFloatingVideo,"This demo app will animate the view just like Youtube mobile app, while tapping on video a UIView pops up from right corner of the screen and the view can be dragged to  right corner through Pan Gesture and more features are there as Youtube iOS app . The whole design is done with Auto Layout and it is compatible with iOS 6 too. No need to worry about screen size as it will run smoothly on any device size iPhone 4s to iPhone 6 Plus",2015-02-02T08:23:24Z,2020-03-19T10:50:59Z,299,Objective-C
+articles,https://github.com/NSHipster/articles,Articles for NSHipster.com,2013-01-02T22:04:00Z,2020-05-30T04:39:10Z,1134,
+XPlayer,https://github.com/wddwycc/XPlayer,PIP Video Player for iOS,2016-09-20T03:43:06Z,2020-05-29T02:12:03Z,98,Swift
+MBVideoPlayer,https://github.com/mwaqasbhati/MBVideoPlayer,"A video player on top of AVQueuePlayer with custom header, playlist items, play, pause, seek to slider, time, resize to fullscreen, forward, backward horizontal, vertical capabilities.",2019-12-08T19:25:20Z,2020-05-30T16:55:04Z,70,Swift
+Playerly,https://github.com/julianschiavo/Playerly,A lightweight app to play videos from the Files app in a better (dark) interface which avoids losing your playback position.,2018-12-17T09:26:50Z,2020-05-11T08:03:46Z,21,Swift
+SwiftInfo,https://github.com/rockbruno/SwiftInfo,📊 Extract and analyze the evolution of an iOS app's code.,2019-03-19T21:14:45Z,2020-05-30T15:16:11Z,624,Swift
+VersaPlayer,https://github.com/josejuanqm/VersaPlayer,"Versatile Video Player implementation for iOS, macOS, and tvOS",2018-10-13T19:16:27Z,2020-05-27T12:16:07Z,524,Swift
+HaishinKit.swift,https://github.com/shogo4405/HaishinKit.swift,"Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.",2015-07-07T10:35:08Z,2020-05-30T04:06:16Z,1770,Swift
+accelerator-core-ios,https://github.com/opentok/accelerator-core-ios,Syntax sugar of OpenTok iOS SDK with Audio/Video communication including screen sharing,2017-01-27T00:38:12Z,2020-04-19T03:12:28Z,27,Objective-C
+Airstream,https://github.com/qasim/Airstream,A framework for streaming audio between Apple devices using AirPlay.,2016-08-26T22:17:22Z,2020-05-30T09:57:59Z,352,Objective-C
+SwiftFFmpeg,https://github.com/sunlubo/SwiftFFmpeg,A Swift wrapper for the FFmpeg API,2018-07-08T10:56:52Z,2020-05-30T10:25:21Z,145,Swift
+mobileplayer-ios,https://github.com/sahin/mobileplayer-ios,:iphone: :movie_camera: A powerful and completely customizable media player for iOS,2015-04-22T19:15:10Z,2020-05-27T21:43:57Z,2781,Swift
+VideoPager,https://github.com/entotsu/VideoPager,"Paging Video UI, and some control components is available.",2016-09-13T05:59:26Z,2020-03-12T05:38:16Z,50,Swift
+MediaView,https://github.com/AndrewBoryk/MediaView,"ABMediaView Swift version - Media view which subclasses UIImageView, and can display & load images, videos, GIFs, and audio and from the web, and has functionality to minimize from fullscreen, as well as show GIF previews for videos.",2017-06-28T14:48:51Z,2020-05-11T23:11:24Z,27,Swift
+PryntTrimmerView,https://github.com/HHK1/PryntTrimmerView,"A set of tools to trim, crop and select frames inside a video",2017-03-28T15:17:24Z,2020-05-26T15:08:24Z,429,Swift
+LayerPlayer,https://github.com/scotteg/LayerPlayer,Layer Player explores the capabilities of Apple's Core Animation API,2014-12-09T11:54:30Z,2020-05-09T18:55:24Z,1064,Swift
+AlamofireImage,https://github.com/Alamofire/AlamofireImage,AlamofireImage is an image component library for Alamofire,2015-09-02T04:40:02Z,2020-05-29T11:17:48Z,3493,Swift
+swift-doc,https://github.com/SwiftDocOrg/swift-doc,Generates documentation for Swift projects,2020-01-27T13:58:15Z,2020-05-30T13:12:30Z,1051,Swift
+kickstarter-ios,https://github.com/hoonhoonhoon/kickstarter-ios,fork and refactoring,2016-12-17T12:44:08Z,2020-01-26T20:39:32Z,3,Swift
+FloatingTabBarController,https://github.com/EmilioPelaez/FloatingTabBarController,A tab bar controller with sliding tabs and a custom tab bar,2019-04-28T16:19:36Z,2020-05-12T19:36:13Z,46,Swift
+cb-tabbar,https://github.com/Cuberto/cb-tabbar,,2019-03-22T13:33:08Z,2020-05-29T04:13:58Z,130,Swift
+SSCustomTabbar,https://github.com/simformsolutions/SSCustomTabbar,Simple Animated tabbar with native control,2019-03-28T11:50:26Z,2020-05-20T06:02:47Z,138,Swift
+flashy-tabbar,https://github.com/Cuberto/flashy-tabbar,One another nice animated tabbar,2018-11-30T17:51:38Z,2020-05-27T19:41:50Z,546,Swift
+Starscream,https://github.com/daltoniam/Starscream,Websockets in swift for iOS and OSX,2014-07-17T01:52:40Z,2020-05-30T04:20:08Z,5926,Swift
+LegibleError,https://github.com/mxcl/LegibleError,Beating `Error.localizedDescription` at its own game.,2019-02-02T19:37:20Z,2020-05-27T17:43:47Z,144,Swift
+Path.swift,https://github.com/mxcl/Path.swift,"Delightful, robust, cross-platform and chainable file-pathing functions.",2019-01-17T22:07:03Z,2020-05-26T20:10:05Z,781,Swift
+UserDefaultsStore,https://github.com/omaralbeik/UserDefaultsStore,Why not use UserDefaults to store Codable objects 😉,2018-06-30T15:29:31Z,2020-05-25T12:27:45Z,358,Swift
+ToDoList,https://github.com/rursache/ToDoList,A simple ToDoList written in Swift,2019-02-20T09:36:48Z,2020-05-21T07:20:19Z,62,Swift
+SwiftyJSON,https://github.com/SwiftyJSON/SwiftyJSON,The better way to deal with JSON data in Swift.,2014-06-18T14:41:15Z,2020-05-30T14:40:33Z,19631,Swift
+Kingfisher,https://github.com/onevcat/Kingfisher,"A lightweight, pure-Swift library for downloading and caching images from the web.",2015-04-06T14:26:21Z,2020-05-30T21:10:50Z,16166,Swift
+Stevia,https://github.com/freshOS/Stevia,:leaves: Write concise Autolayout code,2015-06-15T09:41:48Z,2020-05-30T10:39:19Z,2932,Swift
+ObjectMapper,https://github.com/tristanhimmelman/ObjectMapper,Simple JSON Object mapping written in Swift,2014-10-16T16:14:49Z,2020-05-30T15:28:16Z,8477,Swift
+PromiseKit,https://github.com/mxcl/PromiseKit,Promises for Swift & ObjC.,2014-04-04T13:54:37Z,2020-05-30T13:51:14Z,12647,Swift
+pro-ios-table-views-collection-views,https://github.com/Apress/pro-ios-table-views-collection-views,Source code for 'Pro iOS Table Views and Collection Views' by Tim Duckett,2016-10-19T10:04:34Z,2020-01-16T14:18:00Z,10,Swift
+Instructions,https://github.com/ephread/Instructions,"Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.",2015-10-01T11:24:42Z,2020-05-28T10:40:32Z,4312,Swift
+SwiftyRSA,https://github.com/TakeScoop/SwiftyRSA,RSA public/private key encryption in Swift,2015-07-02T23:49:45Z,2020-05-30T11:34:40Z,796,Swift
+mapbox-arkit-ios,https://github.com/mapbox/mapbox-arkit-ios,Utilities for combining Mapbox maps and location services with ARKit in your applications.,2017-08-08T21:28:02Z,2020-05-26T08:34:37Z,213,Swift
+Swift-Clean-Architecture,https://github.com/basememara/Swift-Clean-Architecture,Clean Architecture for iOS,2018-04-22T21:58:04Z,2020-01-13T20:26:00Z,6,Swift
+swift-strong-reference-cycle-sample,https://github.com/basememara/swift-strong-reference-cycle-sample,Code to illustrate strong reference cycle and for using with Xcode Instruments,2016-05-24T03:26:46Z,2020-01-13T20:25:57Z,1,Swift
+ThemeKit,https://github.com/basememara/ThemeKit,Protocol-Oriented Themes for iOS Apps,2018-09-29T16:42:59Z,2020-04-05T15:10:13Z,25,Swift
+awesome-swift,https://github.com/Wolg/awesome-swift,"A curated list of awesome Swift frameworks, libraries and software.",2014-07-12T17:08:44Z,2020-05-30T09:22:18Z,5045,
+JASON,https://github.com/delba/JASON,Fast JSON parsing for Swift,2015-06-27T12:19:50Z,2020-05-21T09:37:26Z,1021,Swift
+Localize-Swift,https://github.com/marmelroy/Localize-Swift,Swift friendly localization and i18n with in-app language switching,2015-08-05T10:19:09Z,2020-05-27T06:37:11Z,2462,Swift
+swift-ui-animation-components-and-libraries,https://github.com/Ramotion/swift-ui-animation-components-and-libraries,"Swift UI libraries, iOS components and animations by @Ramotion - https://www.ramotion.com/agency/app-development/",2018-02-22T18:46:01Z,2020-05-30T20:08:01Z,3099,Swift
+SideMenu,https://github.com/kukushi/SideMenu,An interactive iOS side menu with rich features.,2018-03-09T14:05:05Z,2020-05-30T08:28:07Z,395,Swift
+Moya,https://github.com/Moya/Moya,Network abstraction layer written in Swift.,2014-08-16T07:41:21Z,2020-05-30T10:37:46Z,12121,Swift
+mapbox-scenekit,https://github.com/mapbox/mapbox-scenekit,,2018-05-23T15:53:50Z,2020-05-30T22:16:07Z,189,Swift
+mapbox-vision-ios,https://github.com/mapbox/mapbox-vision-ios,,2018-09-08T13:24:27Z,2020-05-28T06:29:19Z,31,Swift
+mapbox-navigation-ios,https://github.com/mapbox/mapbox-navigation-ios,Turn-by-turn navigation logic and UI in Swift on iOS,2016-11-16T01:23:44Z,2020-05-30T05:44:32Z,594,Swift
+mapbox-directions-swift,https://github.com/mapbox/mapbox-directions-swift,"Traffic-aware directions and map matching in Swift on iOS, macOS, tvOS, and watchOS",2014-12-04T21:01:09Z,2020-05-29T23:14:24Z,96,Swift
+SwiftTips,https://github.com/JohnSundell/SwiftTips,A collection of Swift tips & tricks that I've shared on Twitter,2017-01-24T10:34:29Z,2020-05-30T10:18:36Z,3549,
+TOCropViewController,https://github.com/TimOliver/TOCropViewController,A view controller for iOS that allows users to crop portions of UIImage objects,2015-06-06T22:53:07Z,2020-05-28T07:37:40Z,3546,Objective-C
+GPUImage,https://github.com/BradLarson/GPUImage,An open source iOS framework for GPU-based image and video processing,2012-02-13T15:20:02Z,2020-05-30T19:30:56Z,19294,Objective-C
+FSPagerView,https://github.com/WenchaoD/FSPagerView,FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.,2017-02-10T14:28:37Z,2020-05-29T20:15:28Z,5292,Swift
+Ink,https://github.com/JohnSundell/Ink,A fast and flexible Markdown parser written in Swift.,2019-11-25T19:30:54Z,2020-05-30T00:49:53Z,1667,Swift
+NetNewsWire,https://github.com/Ranchero-Software/NetNewsWire,RSS reader for macOS and iOS.,2017-05-21T17:59:23Z,2020-05-30T13:21:20Z,3407,Swift
+PathKit,https://github.com/kylef/PathKit,Effortless path operations in Swift,2014-09-10T16:23:51Z,2020-05-19T02:16:39Z,1186,Swift
+Sweep,https://github.com/JohnSundell/Sweep,Fast and powerful Swift string scanning made simple,2019-04-04T13:25:01Z,2020-05-18T16:52:11Z,460,Swift
+Publish,https://github.com/JohnSundell/Publish,A static site generator for Swift developers,2019-12-27T23:25:33Z,2020-05-30T15:49:58Z,2395,Swift
+blog,https://github.com/onmyway133/blog,🍁 What you don't know is what you haven't learned,2017-04-26T19:10:49Z,2020-05-28T09:22:37Z,408,
+LayerPlayer,https://github.com/raywenderlich/LayerPlayer,Layer Player explores the capabilities of Apple's Core Animation API,2017-09-08T16:01:20Z,2020-05-19T06:07:45Z,156,Swift
+AudioIndicatorBars,https://github.com/LeonardoCardoso/AudioIndicatorBars,AIB indicates for your app users which audio is playing. Just like the Podcasts app.,2016-09-16T12:48:40Z,2020-05-17T01:56:54Z,269,Swift
+SonogramView,https://github.com/Luccifer/SonogramView,Audio visualisation of song,2017-09-01T17:05:57Z,2020-05-29T08:13:22Z,59,Swift
+PandoraPlayer,https://github.com/ApplikeySolutions/PandoraPlayer,"🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.",2017-08-08T12:26:42Z,2020-05-20T23:00:32Z,985,Swift
+ESTMusicIndicator,https://github.com/Aufree/ESTMusicIndicator,Cool Animated music indicator view written in Swift,2015-12-30T12:16:18Z,2020-05-28T15:29:08Z,429,Swift
+InteractivePlayerView,https://github.com/AhmettKeskin/InteractivePlayerView,Custom iOS music player view,2015-09-10T19:57:29Z,2020-05-24T10:46:00Z,273,Swift
+Cephalopod,https://github.com/evgenyneu/Cephalopod,"A sound fader for AVAudioPlayer written in Swift for iOS, tvOS and macOS.",2014-12-31T08:18:53Z,2020-05-18T12:51:34Z,99,Swift
+EZAudio,https://github.com/syedhali/EZAudio,"An iOS and macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.",2013-11-30T00:47:11Z,2020-05-29T09:32:36Z,4686,Objective-C
+Charts,https://github.com/danielgindi/Charts,Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.,2015-03-20T10:49:12Z,2020-05-30T17:57:57Z,22835,Swift
+Dash-Plugin-for-Xcode,https://github.com/omz/Dash-Plugin-for-Xcode,Plugin for Xcode to integrate the Dash documentation viewer app,2012-09-18T18:15:05Z,2020-05-19T15:53:15Z,1538,Objective-C
+Finger-Massage,https://github.com/tenonedesign/Finger-Massage,A fun project to demonstrate how to actuate an Apple Force Touch trackpad.  Of dubious practical benefit.,2015-04-29T00:08:05Z,2020-02-25T21:17:31Z,63,Objective-C
+BetterCodable,https://github.com/marksands/BetterCodable,Better Codable through Property Wrappers,2019-10-19T03:12:48Z,2020-05-30T10:30:09Z,594,Swift
+apple-ios-samples,https://github.com/robovm/apple-ios-samples,,2014-09-04T11:53:46Z,2020-05-30T13:28:44Z,2017,Objective-C
+ExpandedTabBar,https://github.com/yervandsar/ExpandedTabBar,"ExpandedTabBar is a very creative designed solution for ""more"" items in UITabBarController",2018-03-14T08:57:53Z,2020-05-21T13:30:49Z,126,Swift
+SmoothTab,https://github.com/yervandsar/SmoothTab,Smooth customizable tabs for iOS apps.,2018-03-02T06:59:13Z,2020-05-15T03:00:56Z,84,Swift
+SSCustomTabMenu,https://github.com/simformsolutions/SSCustomTabMenu,Customisable iOS bottom menu works like Tabbar,2017-12-26T06:33:29Z,2020-04-15T21:36:23Z,68,Swift
+SwipeableTabBarController,https://github.com/marcosgriselli/SwipeableTabBarController,UITabBarController with swipe interaction between its tabs.,2017-02-01T20:04:06Z,2020-05-23T06:22:51Z,763,Swift
+KYWheelTabController,https://github.com/ykyouhei/KYWheelTabController,KYWheelTabController is a subclass of UITabBarController.It displays the circular menu instead of UITabBar.,2016-02-20T16:17:42Z,2020-04-20T15:46:42Z,119,Swift
+Segmentio,https://github.com/Yalantis/Segmentio,Animated top/bottom segmented control written in Swift.,2016-07-04T08:54:51Z,2020-05-30T21:02:31Z,2092,Swift
+BATabBarController,https://github.com/antiguab/BATabBarController,A TabBarController with a unique animation for selection,2016-05-13T08:13:15Z,2020-05-29T01:58:18Z,909,Swift
+ColorMatchTabs,https://github.com/Yalantis/ColorMatchTabs,This is a Review posting app that let user find interesting places near them,2016-07-28T11:51:41Z,2020-05-29T01:58:01Z,1261,Swift
+Dash-iOS,https://github.com/Kapeli/Dash-iOS,Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets,2016-11-06T17:31:43Z,2020-05-30T23:17:44Z,6889,Objective-C
+awesome-ios,https://github.com/vsouza/awesome-ios,"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",2014-07-10T16:03:45Z,2020-05-30T20:44:30Z,34967,Swift
+SwipeCellKit,https://github.com/SwipeCellKit/SwipeCellKit,"Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.",2017-02-03T13:29:50Z,2020-05-30T20:06:52Z,5130,Swift
+Chameleon,https://github.com/viccsmind/Chameleon,"Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).",2014-07-26T09:01:09Z,2020-05-29T17:30:52Z,12412,Objective-C
+SwiftSoup,https://github.com/scinfu/SwiftSoup,"SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)",2016-11-18T23:20:04Z,2020-05-30T13:52:07Z,2199,HTML
+learn-regex,https://github.com/ziishaned/learn-regex,Learn regex the easy way,2017-07-22T12:21:03Z,2020-05-30T19:33:07Z,35079,
+Pecker,https://github.com/woshiccm/Pecker,CodePecker is a tool to detect unused Swift code.,2019-12-03T09:02:41Z,2020-05-30T10:35:24Z,984,Swift
+Swift-Clean-Architecture,https://github.com/iosmentor-io/Swift-Clean-Architecture,Clean Architecture for iOS,2018-05-12T17:43:57Z,2020-05-26T03:41:29Z,34,Swift
+SwiftyOnboard,https://github.com/juanpablofernandez/SwiftyOnboard,A swifty iOS framework that allows developers to create beautiful onboarding experiences.,2017-03-26T23:02:36Z,2020-05-28T14:59:41Z,916,Swift
+TweenKit,https://github.com/SteveBarnegren/TweenKit,Animation library for iOS in Swift,2017-03-17T20:44:25Z,2020-05-29T17:17:09Z,996,Swift
+OnboardKit,https://github.com/NikolaKirev/OnboardKit,Customisable user onboarding for your iOS app,2017-07-22T13:43:00Z,2020-05-28T02:44:44Z,264,Swift
+AlertOnboarding,https://github.com/PhilippeBoisney/AlertOnboarding,A simple and attractive AlertView to onboard your users in your amazing world.,2016-03-25T14:31:43Z,2020-05-28T10:03:00Z,722,Swift
+Music-Player,https://github.com/bpolat/Music-Player,Fully functional music player which is written in swift programming language ,2014-08-19T13:23:11Z,2020-05-15T18:46:31Z,211,Swift
+ProgressController,https://github.com/pmick/ProgressController,A replacement for MBProgressHUD/SVProgressHUD or similar progress views that leverages UIPresentationController rather than inserting views into your window/view hierarchy.,2016-02-23T02:16:07Z,2019-12-16T10:43:25Z,1,Swift
+Venice,https://github.com/Zewo/Venice,"Coroutines, structured concurrency and CSP for Swift on macOS and Linux.",2015-09-19T23:10:44Z,2020-05-29T13:53:43Z,1486,Swift
+SwifterSwift,https://github.com/SwifterSwift/SwifterSwift,A handy collection of more than 500 native Swift extensions to boost your productivity.,2016-08-01T22:25:24Z,2020-05-30T17:53:41Z,8491,Swift
+SwiftyPress,https://github.com/ZamzamInc/SwiftyPress,An iOS framework for WordPress integration.,2016-03-27T21:10:08Z,2020-05-30T16:54:44Z,45,Swift
+bubble-icon-tabbar,https://github.com/Cuberto/bubble-icon-tabbar,,2019-02-08T10:22:34Z,2020-05-30T19:58:27Z,827,Swift
+youtube-iOS,https://github.com/aslanyanhaik/youtube-iOS,youtube iOS app template written in swift 5,2016-07-07T11:54:31Z,2020-05-29T16:35:42Z,2268,Swift
+ESTabBarController,https://github.com/eggswift/ESTabBarController,":octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!",2016-05-19T15:06:39Z,2020-05-30T20:07:07Z,4194,Swift
+alerts-and-pickers,https://github.com/dillidon/alerts-and-pickers,"Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...",2018-01-12T13:16:07Z,2020-05-30T09:57:45Z,4771,Swift
+cheatsheet-translation,https://github.com/shervinea/cheatsheet-translation,"Translation of VIP cheatsheets for Machine Learning Deep Learning, and Artificial Intelligence",2018-09-13T06:25:41Z,2020-05-29T22:05:53Z,625,
+xcode-themes,https://github.com/hdoria/xcode-themes,Color themes for Xcode,2011-04-18T20:09:35Z,2020-05-28T09:23:32Z,2241,Ruby
+Lightning,https://github.com/gokselkoksal/Lightning,Lightning provides components to make Swift development easier.,2016-11-19T14:29:15Z,2020-04-27T09:07:29Z,79,Swift
+nerd-fonts,https://github.com/ryanoasis/nerd-fonts,"Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",2014-12-05T04:31:17Z,2020-05-30T20:49:29Z,21729,CSS
+Lerp,https://github.com/dclelland/Lerp,Linear interpolation microlibrary,2015-12-06T02:03:16Z,2020-05-06T08:14:32Z,25,Swift
+VoiceMemosClone,https://github.com/HassanElDesouky/VoiceMemosClone,A clone for Apple's Voice Memos app.,2019-01-12T10:29:23Z,2020-05-06T09:12:58Z,91,Swift
+SwiftLint,https://github.com/realm/SwiftLint,A tool to enforce Swift style and conventions.,2015-05-16T16:59:31Z,2020-05-30T21:52:28Z,13434,Swift
+iOSMemoryBudgetTest,https://github.com/Split82/iOSMemoryBudgetTest,Small iOS application which tries to allocate as much memory as possible to crash. After that you can run the application again to see how much memory was needed for crash and when all the memory warnings happen.,2012-11-05T23:24:25Z,2020-05-29T09:18:21Z,433,Objective-C
+Game-Networking-Resources,https://github.com/MFatihMAR/Game-Networking-Resources,A Curated List of Game Network Programming Resources,2018-01-24T09:05:00Z,2020-05-29T19:05:13Z,2592,C++
+httpie,https://github.com/jakubroztocil/httpie,"As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp",2012-02-25T12:39:13Z,2020-05-30T20:16:01Z,46841,Python
+CryptoSwift,https://github.com/krzyzanowskim/CryptoSwift,CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift,2014-07-06T07:31:39Z,2020-05-30T19:13:36Z,7794,Swift
+Dash-Alfred-Workflow,https://github.com/Kapeli/Dash-Alfred-Workflow,Dash Alfred Workflow,2014-03-11T23:06:12Z,2020-05-29T20:22:18Z,253,
+Reachability.swift,https://github.com/ashleymills/Reachability.swift,Replacement for Apple's Reachability re-written in Swift with closures,2014-09-21T14:32:36Z,2020-05-29T21:53:23Z,6779,Swift
+Design-Patterns-In-Swift,https://github.com/ochococo/Design-Patterns-In-Swift,📖 Design Patterns implemented in Swift 5.0,2014-07-13T18:15:14Z,2020-05-30T08:46:40Z,11850,Swift
+paper-onboarding,https://github.com/Ramotion/paper-onboarding,:octocat: PaperOnboarding is a material design UI slider. Swift UI library by @Ramotion - https://www.ramotion.com/agency/app-development/,2016-04-25T09:30:38Z,2020-05-29T02:28:12Z,2949,Swift
+SimulatorRemoteNotifications,https://github.com/acoomans/SimulatorRemoteNotifications,Library to send mock remote notifications to the iOS simulator,2013-02-14T02:06:38Z,2020-04-22T11:58:06Z,1369,Objective-C
+XLPagerTabStrip,https://github.com/xmartlabs/XLPagerTabStrip,Android PagerTabStrip for iOS.,2014-12-20T12:05:22Z,2020-05-29T02:58:45Z,6328,Swift
+swift-linq-examples,https://github.com/mythz/swift-linq-examples,C#'s 101 LINQ Samples translated to Swift ,2014-06-06T03:26:28Z,2020-05-30T00:10:34Z,238,Swift
+app-icon-generator,https://github.com/laptrinhcomvn/app-icon-generator,Mac OS X app to generate multiple size for Mobile App Icon development,2015-05-19T03:06:20Z,2020-05-24T08:51:19Z,61,Objective-C
+SnapKit,https://github.com/SnapKit/SnapKit,A Swift Autolayout DSL for iOS & OS X,2014-06-05T21:13:40Z,2020-05-30T16:07:59Z,16484,Swift
+WWDC,https://github.com/insidegui/WWDC,The unofficial WWDC app for macOS,2015-04-19T20:09:26Z,2020-05-30T16:36:35Z,7626,Swift
+ebreader,https://github.com/foureyez/ebreader,A minimal Ebook reader for Android/IOS made with flutter.,2018-08-24T14:04:34Z,2020-05-14T15:30:50Z,22,Dart
+Mastering-iOS-11-Programming,https://github.com/PacktPublishing/Mastering-iOS-11-Programming,"Mastering iOS 11 Programming - Second Edition, published by Packt",2017-10-26T07:33:36Z,2019-11-05T22:04:45Z,6,Swift
+TinyConstraints,https://github.com/roberthein/TinyConstraints,Nothing but sugar.,2017-02-05T17:33:40Z,2020-05-29T15:24:59Z,3435,Swift
+Onboard,https://github.com/mamaral/Onboard,An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.,2014-08-19T01:43:54Z,2020-05-29T05:56:04Z,6481,Objective-C
+wire-ios,https://github.com/wireapp/wire-ios,📱 Wire for iOS (iPhone and iPad),2016-07-21T09:16:34Z,2020-05-30T07:37:29Z,2870,Swift
+Signal-iOS,https://github.com/signalapp/Signal-iOS,A private messenger for iOS.,2014-05-04T15:42:40Z,2020-05-30T19:23:09Z,4817,Swift
+Fire.onion,https://github.com/onionApps/Fire.onion,Browser + Tor bundle for Android,2016-01-10T10:48:46Z,2020-03-03T10:30:39Z,41,Java
+LibgenDesktop,https://github.com/libgenapps/LibgenDesktop,,2017-11-08T06:28:54Z,2020-05-30T14:58:28Z,596,C#
+XcodeSwiftSnippets,https://github.com/burczyk/XcodeSwiftSnippets,Swift 4 code snippets for Xcode ,2015-01-04T11:38:18Z,2020-05-28T03:39:07Z,1618,Python
+Movember-Loyalty-App,https://github.com/escakot/Movember-Loyalty-App,,2018-11-18T03:24:12Z,2019-10-15T10:12:02Z,1,Swift
+SeeFood,https://github.com/escakot/SeeFood,Community Food Photo App,2017-08-08T17:46:01Z,2019-10-15T10:10:22Z,1,Swift
+tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,💯 Materials to help you rock your next coding interview,2016-07-05T05:00:48Z,2020-05-30T22:56:17Z,42914,JavaScript
+Pixel,https://github.com/muukii/Pixel,🎨🖼 An image editor and engine using CoreImage,2018-10-08T11:44:36Z,2020-05-30T07:53:19Z,1991,Swift
+photo-editor,https://github.com/eventtus/photo-editor,Photo editor with a lot of cool features ,2017-04-23T10:21:16Z,2020-05-27T17:28:09Z,667,Swift
+ProgressHUD,https://github.com/relatedcode/ProgressHUD,ProgressHUD is a lightweight and easy-to-use HUD for iOS. (Objective-C),2013-10-09T14:25:30Z,2020-05-27T08:37:41Z,1530,Objective-C
+Unity-Scripts,https://github.com/leventeren/Unity-Scripts,Unity Script Samples,2019-08-30T08:57:25Z,2020-05-30T01:19:06Z,3,C#
+rubber-range-picker,https://github.com/Cuberto/rubber-range-picker,,2019-02-14T16:29:15Z,2020-05-26T00:58:14Z,345,Swift
+liquid-swipe,https://github.com/Cuberto/liquid-swipe,,2018-12-24T16:10:31Z,2020-05-30T20:06:01Z,2401,Swift
+usbmuxd,https://github.com/libimobiledevice/usbmuxd,A socket daemon to multiplex connections from and to iOS devices,2013-02-13T14:20:06Z,2020-05-28T09:01:02Z,666,C
+WebTemplateStudio,https://github.com/microsoft/WebTemplateStudio,Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices,2019-01-29T23:08:41Z,2020-05-29T13:27:53Z,1806,TypeScript
+awesome-podcasts,https://github.com/rShetty/awesome-podcasts,Collection of awesome podcasts,2018-03-23T07:33:39Z,2020-05-30T21:30:30Z,9888,
+developer-portfolios,https://github.com/emmabostian/developer-portfolios,A list of developer portfolios for your inspiration,2019-09-13T14:18:58Z,2020-05-30T16:46:01Z,1207,
+ezy-slice,https://github.com/DavidArayan/ezy-slice,An open source mesh slicer framework for Unity3D Game Engine. Written in C#.,2015-11-17T08:38:41Z,2020-05-30T06:59:16Z,692,C#
+strapi,https://github.com/strapi/strapi,🚀 Open source Node.js Headless CMS to easily build customisable APIs,2015-09-30T15:34:48Z,2020-05-30T23:14:54Z,25530,JavaScript
+easings.net,https://github.com/ai/easings.net,Easing Functions Cheat Sheet,2012-03-22T10:27:18Z,2020-05-30T08:20:07Z,5028,CSS
+FastNoise_CSharp,https://github.com/Auburns/FastNoise_CSharp,FastNoise C# Version,2016-10-18T19:57:20Z,2020-05-30T18:40:08Z,264,C#
+css-only-chat,https://github.com/kkuchta/css-only-chat,A truly monstrous async web chat using no JS whatsoever on the frontend,2019-05-07T14:32:58Z,2020-05-29T23:45:15Z,5578,Ruby
+MathUtilities,https://github.com/zalo/MathUtilities,A collection of some of the neat math and physics tricks that I've collected over the last few years.,2017-02-11T22:45:15Z,2020-05-30T16:42:49Z,2070,C#
+NaughtyAttributes,https://github.com/dbrizov/NaughtyAttributes,Attribute Extensions for Unity,2017-10-16T13:54:46Z,2020-05-29T22:34:19Z,1622,C#
+Unity-AssetDependencyGraph,https://github.com/Unity-Harry/Unity-AssetDependencyGraph,An Asset Dependency Graph for Unity,2019-08-13T15:15:44Z,2020-05-29T01:32:35Z,163,C#
+awesome-react,https://github.com/enaqx/awesome-react,A collection of awesome things regarding React ecosystem,2014-08-06T05:31:44Z,2020-05-30T20:25:58Z,37100,
+blockly,https://github.com/google/blockly,The web-based visual programming editor.,2013-10-25T21:13:33Z,2020-05-30T08:54:54Z,7663,JavaScript
+EntityComponentSystemSamples,https://github.com/Unity-Technologies/EntityComponentSystemSamples,,2018-03-17T08:56:44Z,2020-05-30T21:39:04Z,3471,C#
+material-theme-jetbrains,https://github.com/ChrisRM/material-theme-jetbrains,JetBrains theme of Material Theme,2015-09-23T07:15:04Z,2020-05-30T17:21:35Z,7598,Java
+A-to-Z-Resources-for-Students,https://github.com/dipakkr/A-to-Z-Resources-for-Students,✅  Curated list of resources for college students ,2018-09-17T11:15:29Z,2020-05-30T22:08:41Z,10276,
+NokiaRemote,https://github.com/meyskens/NokiaRemote,J2ME app for Nokia 3510i to remote control Google slides,2019-07-29T10:17:06Z,2020-05-09T22:47:44Z,95,Java
+InputSystem,https://github.com/Unity-Technologies/InputSystem,An efficient and versatile input system for Unity.,2017-10-03T04:50:54Z,2020-05-30T20:38:15Z,836,C#
+iOS.Library.eppz_Xcode,https://github.com/Geri-Borbas/iOS.Library.eppz_Xcode,An Xcode color scheme with meanings behind colors.,2013-11-30T15:43:26Z,2020-05-26T17:22:09Z,37,
+DeBroglie,https://github.com/BorisTheBrave/DeBroglie,"DeBroglie is a C# library implementing the Wave Function Collapse algorithm with support for additional non-local constraints, and other useful features.",2018-09-23T12:25:28Z,2020-05-24T13:49:40Z,151,C#
+lottie-ios,https://github.com/airbnb/lottie-ios,An iOS library to natively render After Effects vector animations,2016-10-06T22:38:38Z,2020-05-30T14:10:54Z,19671,Swift
+ios-learning-materials,https://github.com/jVirus/ios-learning-materials,"📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms]",2017-07-10T13:30:11Z,2020-05-30T16:05:14Z,1132,Swift
+awesome-swift,https://github.com/matteocrippa/awesome-swift,A collaborative list of awesome Swift libraries and resources. Feel free to contribute!,2014-07-10T14:04:09Z,2020-05-30T20:44:51Z,19224,Swift
+unity_metadata_loader,https://github.com/TheRealJunior/unity_metadata_loader,,2019-06-05T16:28:32Z,2019-09-26T18:42:23Z,1,C++
+Unity-game-hacking,https://github.com/imadr/Unity-game-hacking,A guide for hacking unity games,2017-04-21T10:50:46Z,2020-05-30T16:56:54Z,368,
+UnityAssetCleaner,https://github.com/tsubaki/UnityAssetCleaner,,2015-07-26T14:36:53Z,2020-05-24T05:15:21Z,188,C#
+Tool-UnityAssetCleaner,https://github.com/unity-cn/Tool-UnityAssetCleaner,,2016-07-05T11:14:25Z,2020-05-27T07:11:20Z,187,C#
+bounce,https://github.com/thatgamesguy/bounce,Bounce - Game Template,2018-11-23T14:54:45Z,2019-07-01T00:15:00Z,3,C#
+top_down_guns,https://github.com/thatgamesguy/top_down_guns,Top Down Guns - Unity Game Asset,2018-11-23T15:58:00Z,2019-07-01T00:14:59Z,3,C#
+double,https://github.com/thatgamesguy/double,Double - Game Template,2018-11-23T14:59:48Z,2019-07-01T00:14:58Z,2,C#
+cave_exploration_starter_kit,https://github.com/thatgamesguy/cave_exploration_starter_kit,Cave Exploration Starter Kit - Unity Game Template,2018-11-23T16:23:08Z,2020-01-15T19:59:54Z,5,C#
+that_genetic_algorithm,https://github.com/thatgamesguy/that_genetic_algorithm,,2018-03-17T08:25:31Z,2019-07-01T00:14:55Z,1,C++
+that_game_engine,https://github.com/thatgamesguy/that_game_engine,Source code for a game engine development series,2018-02-02T16:21:06Z,2020-05-03T14:41:56Z,13,C++
+pluralsight_scraper,https://github.com/Stormix/pluralsight_scraper,A course downloader/scrapper for https://www.pluralsight.com,2017-05-17T22:50:42Z,2020-05-20T14:58:23Z,23,Python
+Pluralsight-Course-Downloader,https://github.com/vatz88/Pluralsight-Course-Downloader,Chrome Extension: Easily download course video from pluralsight. Videos renamed and organized in folder.,2017-09-20T07:59:07Z,2020-05-28T23:00:24Z,151,JavaScript
+NavMeshComponents,https://github.com/Unity-Technologies/NavMeshComponents,High Level API Components for Runtime NavMesh Building,2016-09-30T13:32:31Z,2020-05-30T08:20:32Z,1619,C#
+react-native-apps,https://github.com/praveen-me/react-native-apps,This respository contains a variety of React Native Apps. 📱,2019-06-14T11:27:40Z,2019-09-29T12:36:22Z,1,JavaScript
+calculator,https://github.com/microsoft/calculator,Windows Calculator: A simple yet powerful calculator that ships with Windows,2019-01-28T17:55:49Z,2020-05-30T22:21:09Z,19838,C++
+XamarinWithUnityApp,https://github.com/EgorBo/XamarinWithUnityApp,A Xamarin app (Android) with Unity as a library (aar),2019-06-18T09:43:06Z,2020-05-13T08:14:11Z,32,C#
+Visualization-of-physics-in-Unity,https://github.com/uvivagabond/Visualization-of-physics-in-Unity,"Few class to visualize shapes in space, geometry queries, vectors",2017-10-15T12:40:15Z,2020-04-10T13:56:12Z,40,C#
+hub,https://github.com/github/hub,A command-line tool that makes git easier to use with GitHub.,2009-12-05T22:15:25Z,2020-05-30T22:41:44Z,19711,Go
+readme-md-generator,https://github.com/kefranabg/readme-md-generator,📄 CLI that generates beautiful README.md files,2019-06-03T16:05:25Z,2020-05-30T21:54:13Z,7296,JavaScript
+SuperCharacterController,https://github.com/IronWarrior/SuperCharacterController,Unity custom character controller,2015-07-15T00:46:12Z,2020-05-23T23:18:34Z,583,C#
+sonharf,https://github.com/alpcanaydin/sonharf,Son harfinden isim türetme oyunu - https://alpcanaydin.github.io/sonharf,2016-12-15T13:21:04Z,2019-07-13T22:16:52Z,34,JavaScript
+Swift-30-Projects,https://github.com/soapyigu/Swift-30-Projects,30 mini Swift Apps for self-study,2016-02-14T20:14:21Z,2020-05-29T14:46:06Z,6079,Swift
+scrapy,https://github.com/scrapy/scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python.",2010-02-22T02:01:14Z,2020-05-30T22:36:00Z,37292,Python
+4ClassicGames,https://github.com/abdyek/4ClassicGames,Four classic games to learn game development without any library and game engine,2019-06-07T14:52:54Z,2020-04-15T15:32:44Z,5,JavaScript
+javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,2018-03-24T07:47:04Z,2020-05-30T23:26:10Z,72188,JavaScript
+csv2keychain,https://github.com/nntarasov/csv2keychain,Small tool for adding exported credentials from Chrome to macOS keychain,2017-03-19T11:24:22Z,2020-05-26T13:09:19Z,252,Python
+kflow,https://github.com/wong2/kflow,"cross platform GUI for k2pdfopt, built with electron",2017-03-19T15:30:40Z,2020-01-19T20:17:38Z,8,JavaScript
+scantailor,https://github.com/scantailor/scantailor,,2014-04-06T17:32:27Z,2020-05-30T17:31:28Z,1163,C++
+txqr,https://github.com/divan/txqr,Transfer data via animated QR codes,2018-11-11T17:58:15Z,2020-05-30T02:19:03Z,2263,Go
+BitGlitter,https://github.com/MarkMichon1/BitGlitter,⚡ Embed data payloads inside of ordinary images or video with high-performance 2-D barcodes. (Python library),2019-04-25T21:54:01Z,2020-05-23T00:57:47Z,182,Python
+tailwindcss,https://github.com/tailwindcss/tailwindcss,A utility-first CSS framework for rapid UI development.,2017-10-06T14:59:14Z,2020-05-30T23:25:14Z,23544,CSS
+frontend,https://github.com/kodilan-com/frontend,Frontend codebase of kodilan.com,2019-05-25T22:09:22Z,2020-05-27T11:39:38Z,458,CSS
+Xamarin.Forms.EasyLoading,https://github.com/sthewissen/Xamarin.Forms.EasyLoading,Loading views made easy!,2019-05-17T11:29:20Z,2020-05-05T21:42:50Z,128,C#
+Worms-Armageddon-HTML5-Clone,https://github.com/CiaranMcCann/Worms-Armageddon-HTML5-Clone,http://www.ciaranmccann.me/wormsjs/,2013-05-30T12:07:32Z,2020-05-26T09:24:14Z,250,TypeScript
+Origami,https://github.com/robbykraft/Origami,computational origami,2016-01-02T21:14:58Z,2020-05-28T09:00:36Z,360,JavaScript
+UnityStatusBarForiOS,https://github.com/HuaYe1975/UnityStatusBarForiOS,Unity plugin for ios to show/hide status bar ,2016-06-23T11:09:18Z,2020-05-29T09:50:29Z,34,Objective-C++
+TwitterPlay,https://github.com/mirmirik/TwitterPlay,Sandbox code to play with Twitter API,2018-10-28T08:23:50Z,2019-12-25T13:39:26Z,19,Python
+boscaceoil,https://github.com/TerryCavanagh/boscaceoil,A simple music making program,2013-08-23T22:01:55Z,2020-05-27T21:56:02Z,348,ActionScript
+open-source-ios-apps,https://github.com/dkhamsing/open-source-ios-apps,:iphone: Collaborative List of Open-Source iOS Apps,2015-01-26T23:32:34Z,2020-05-30T21:10:54Z,23547,Swift
+gitignore,https://github.com/github/gitignore,A collection of useful .gitignore templates,2010-11-08T20:17:14Z,2020-05-30T23:23:36Z,102767,
+eht-imaging,https://github.com/achael/eht-imaging,"Imaging, analysis, and simulation software for radio interferometry",2015-09-22T15:41:48Z,2020-05-28T05:25:41Z,5133,Python
+linux,https://github.com/torvalds/linux,Linux kernel source tree,2011-09-04T22:48:12Z,2020-05-30T23:13:44Z,91673,C
+996.ICU,https://github.com/996icu/996.ICU,Repo for counting stars and contributing. Press F to pay respect to glorious developers.,2019-03-26T07:31:14Z,2020-05-30T17:54:02Z,249726,Rust
+awesome-unity,https://github.com/RyanNielson/awesome-unity,"A curated list of awesome Unity assets, resources, and more.",2014-07-25T01:22:07Z,2020-05-30T10:43:10Z,3561,
+calibre,https://github.com/kovidgoyal/calibre,The official source code repository for the calibre ebook manager,2013-05-28T10:03:23Z,2020-05-30T10:50:23Z,7792,Python
+Awesome-ARKit,https://github.com/olucurious/Awesome-ARKit,A curated list of awesome ARKit projects and resources. Feel free to contribute!,2017-06-28T09:29:01Z,2020-05-30T14:59:31Z,6287,Swift
+hiring-without-whiteboards,https://github.com/poteto/hiring-without-whiteboards,⭐️  Companies that don't have a broken hiring process,2017-03-15T05:09:01Z,2020-05-30T15:07:09Z,15044,JavaScript
+quickdraw-dataset,https://github.com/googlecreativelab/quickdraw-dataset,"Documentation on how to access and use the Quick, Draw! Dataset.",2017-05-09T18:28:32Z,2020-05-30T20:12:08Z,3684,
+neural-doodle,https://github.com/alexjc/neural-doodle,"Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)",2016-03-05T23:35:18Z,2020-05-29T20:15:15Z,9376,Python
+js-dev-reads,https://github.com/twhite96/js-dev-reads,A list of books 📚and articles 📝 for the discerning web developer to read.,2018-09-02T23:54:03Z,2020-05-26T20:25:01Z,3434,
+RiotSharp,https://github.com/BenFradet/RiotSharp,C# wrapper for the Riot Games API,2013-12-11T16:20:59Z,2020-05-30T10:44:36Z,213,C#
+idiomatic.js,https://github.com/rwaldron/idiomatic.js,"Principles of Writing Consistent, Idiomatic JavaScript",2011-05-25T17:48:59Z,2020-05-30T21:00:01Z,16394,
+30-seconds-of-css,https://github.com/30-seconds/30-seconds-of-css,Short CSS code snippets for all your development needs,2018-02-25T13:22:25Z,2020-05-30T09:28:48Z,13530,CSS
+recipe-scrapers,https://github.com/hhursev/recipe-scrapers,Python package for scraping recipes data,2015-09-14T12:05:00Z,2020-05-30T13:48:10Z,320,Python
+refactoring-guide-in-turkish,https://github.com/alirizaadiyahsi/refactoring-guide-in-turkish,Türkçe refactoring kılavuzu,2018-12-19T14:28:24Z,2020-05-25T13:53:32Z,500,
+AVPI,https://github.com/baykovr/AVPI,an open source voice command macro software,2014-06-22T04:58:18Z,2020-04-28T07:34:44Z,121,C#
+Emotion-recognition-and-prediction,https://github.com/nimish1512/Emotion-recognition-and-prediction,A streamlined system to detect human emotions from image and voice and predict its reaction,2017-05-06T04:02:45Z,2020-05-14T14:31:17Z,47,Python
+voiceid,https://github.com/BackupGGCode/voiceid,Speaker recognition/identification system in Python,2015-04-28T21:39:57Z,2020-01-31T17:09:58Z,61,Python
+The-Complete-Android-Oreo-Developer-Course---Build-23-Apps-,https://github.com/PacktPublishing/The-Complete-Android-Oreo-Developer-Course---Build-23-Apps-,"Code repository for The Complete Android Oreo Developer Course - Build 23 Apps!, Published by Packt",2018-11-14T10:55:32Z,2020-05-15T09:02:50Z,10,
+react-hooks,https://github.com/nikgraf/react-hooks,Collection of React Hooks,2018-10-28T10:30:46Z,2020-05-30T23:21:17Z,858,JavaScript
+frontend-bootcamp,https://github.com/microsoft/frontend-bootcamp,Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux,2019-02-24T16:11:55Z,2020-05-30T18:27:09Z,9768,TypeScript
+shadowsocks-windows,https://github.com/shadowsocks/shadowsocks-windows,"If you want to keep a secret, you must also hide it from yourself.",2013-01-14T07:54:16Z,2020-05-30T16:08:45Z,49506,C#
+AspNetCore.Docs,https://github.com/dotnet/AspNetCore.Docs,Documentation for ASP.NET Core,2014-12-19T17:38:02Z,2020-05-30T22:29:51Z,7340,C#
+public-apis,https://github.com/public-apis/public-apis,A collective list of free APIs for use in software and web development.,2016-03-20T23:49:42Z,2020-05-30T23:27:42Z,85001,Python
+You-Dont-Need-jQuery,https://github.com/nefe/You-Dont-Need-jQuery,"Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.",2015-11-21T16:02:26Z,2020-05-30T13:39:45Z,19076,JavaScript
+awesome-python,https://github.com/vinta/awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",2014-06-27T21:00:06Z,2020-05-30T21:32:02Z,82901,Python
+d3,https://github.com/d3/d3,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",2010-09-27T17:22:42Z,2020-05-30T23:29:12Z,91758,JavaScript
+coding-interview-university,https://github.com/jwasham/coding-interview-university,A complete computer science study plan to become a software engineer.,2016-06-06T02:34:12Z,2020-05-30T23:23:16Z,118279,
+bootstrap,https://github.com/twbs/bootstrap,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",2011-07-29T21:19:00Z,2020-05-30T23:31:16Z,141122,JavaScript
+free-programming-books,https://github.com/EbookFoundation/free-programming-books,:books: Freely available programming books,2013-10-11T06:50:37Z,2020-05-30T23:23:25Z,149784,
+You-Dont-Know-JS,https://github.com/getify/You-Dont-Know-JS,A book series on JavaScript. @YDKJS on twitter.,2013-11-16T02:37:24Z,2020-05-30T23:28:03Z,122332,
+freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.,2014-12-24T17:49:19Z,2020-05-30T23:04:33Z,311257,JavaScript
+SC-FEGAN,https://github.com/run-youngjoo/SC-FEGAN,SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019),2019-02-12T08:52:51Z,2020-05-28T07:25:24Z,2985,Python
+How-To-Secure-A-Linux-Server,https://github.com/imthenachoman/How-To-Secure-A-Linux-Server,An evolving how-to guide for securing a Linux server.,2019-02-09T06:44:37Z,2020-05-30T22:17:53Z,10343,
+Awesome-Design-Tools,https://github.com/LisaDziuba/Awesome-Design-Tools,The best design tools and plugins for everything 👉,2019-02-12T13:55:30Z,2020-05-30T12:35:14Z,19766,JavaScript
+Xiaomi_Kernel_OpenSource,https://github.com/MiCode/Xiaomi_Kernel_OpenSource,Xiaomi Mobile Phone Kernel OpenSource,2014-12-31T02:48:55Z,2020-05-30T08:23:26Z,5074,
+personal-website,https://github.com/github/personal-website,Code that'll help you kickstart a personal website that showcases your work as a software developer.,2019-01-25T00:39:39Z,2020-05-30T21:11:02Z,6151,HTML
+awesome-static-generators,https://github.com/myles/awesome-static-generators,A curated list of static web site generators.,2014-09-14T17:05:13Z,2020-05-29T00:03:50Z,1163,
+Xamarin.Forms.GoogleMaps,https://github.com/amay077/Xamarin.Forms.GoogleMaps,Map library for Xamarin.Forms using Google maps API,2016-06-19T08:31:18Z,2020-05-29T10:24:13Z,432,C#
+awesome-dotnet-core,https://github.com/thangchung/awesome-dotnet-core,":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software",2016-03-17T03:52:09Z,2020-05-30T10:27:23Z,12273,C#
+computer-science,https://github.com/ossu/computer-science,:mortar_board: Path to a free self-taught education in Computer Science!,2014-05-04T00:18:39Z,2020-05-30T23:13:45Z,60455,
+SimpleDnsCrypt,https://github.com/bitbeans/SimpleDnsCrypt,A simple management tool for dnscrypt-proxy,2015-09-18T13:07:44Z,2020-05-30T18:19:41Z,1602,C#
+dnscrypt-resolvers,https://github.com/DNSCrypt/dnscrypt-resolvers,Lists of public DNSCrypt / DoH DNS servers and DNS relays,2017-12-12T18:13:17Z,2020-05-29T09:06:31Z,383,Python
+GoodbyeDPI,https://github.com/ValdikSS/GoodbyeDPI,GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows),2017-05-16T18:48:52Z,2020-05-30T22:38:32Z,3551,C
+better-onetab,https://github.com/cnwangjie/better-onetab,:bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome),2018-04-29T19:15:19Z,2020-05-29T22:20:48Z,800,JavaScript
+awesome-developer-streams,https://github.com/bnb/awesome-developer-streams,"👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming",2018-01-01T22:30:20Z,2020-05-30T16:31:56Z,6169,
+topluluk-rehberi,https://github.com/ismailbaskin/topluluk-rehberi,Geliştiriciler için topluluk rehberi,2018-05-10T12:38:42Z,2020-03-04T07:49:36Z,1,
+code-surfer,https://github.com/pomber/code-surfer,Rad code slides <🏄/>,2018-08-19T00:16:54Z,2020-05-30T14:55:01Z,4902,JavaScript
+messenger-app-android,https://github.com/mesibo/messenger-app-android,"Open Source Messenger App For Android - Real-time Messaging, Voice and Video Calls",2019-01-22T05:09:29Z,2020-05-30T07:07:05Z,460,Java
+developer-roadmap,https://github.com/kamranahmedse/developer-roadmap,Roadmap to becoming a web developer in 2020,2017-03-15T13:45:52Z,2020-05-30T23:27:27Z,110352,
+python-cheatsheet,https://github.com/gto76/python-cheatsheet,Comprehensive Python Cheatsheet,2018-01-25T04:16:53Z,2020-05-30T18:52:31Z,12771,Python
+awesome-xamarin,https://github.com/XamSome/awesome-xamarin,A collection of interesting libraries/tools for Xamarin mobile projects ,2015-06-12T22:33:09Z,2020-05-30T22:11:49Z,1455,
+pycrumbs,https://github.com/kirang89/pycrumbs,Bits and bytes of Python from the Internet,2013-06-30T15:01:34Z,2020-05-30T17:19:35Z,2947,
+Awesome,https://github.com/Awesome-Windows/Awesome,:computer: 🎉 An awesome & curated list of best applications and tools for Windows.,2016-05-30T17:27:35Z,2020-05-30T21:50:40Z,13616,
+awesome,https://github.com/sindresorhus/awesome,😎 Awesome lists about all kinds of interesting topics,2014-07-11T13:42:37Z,2020-05-30T23:31:02Z,134069,
+youtube-dl,https://github.com/ytdl-org/youtube-dl,Command-line program to download videos from YouTube.com and other video sites,2010-10-31T14:35:07Z,2020-05-30T21:56:25Z,66772,Python
+VPN_2017,https://github.com/yuger/VPN_2017, Android open source VPN client released on Google Play store.,2017-02-21T15:46:37Z,2020-05-26T06:55:28Z,141,Java
+UnityGooglePlayGamePlugin,https://github.com/clucle/UnityGooglePlayGamePlugin,Unity Project Using Plugin https://github.com/playgameservices/play-games-plugin-for-unity,2018-01-11T07:22:18Z,2020-05-14T06:01:58Z,3,C#
+mechahamster,https://github.com/google/mechahamster,Mecha Hamster is a game where you roll through customizable environments that you can share with your friends.,2017-02-22T22:21:38Z,2020-05-30T02:22:25Z,257,C#
+zooshi,https://github.com/google/zooshi,Multi-platform game where you feed well dressed animals with sushi,2015-05-21T19:26:59Z,2020-05-20T06:26:52Z,276,C++
+grpc.github.io,https://github.com/kerimdeveci/grpc.github.io,The grpc.io website. (on GitHub pages),2018-12-26T20:20:57Z,2019-01-04T22:01:39Z,1,JavaScript
+webpack,https://github.com/webpack/webpack,"A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through ""loaders"", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",2012-03-10T10:08:14Z,2020-05-30T23:29:22Z,54375,JavaScript
+SwipeUpScrollView,https://github.com/HaveTriggerWillTravel/SwipeUpScrollView,Xamarin.iOS library for sliding content up from the bottom of the screen,2017-05-21T10:03:22Z,2018-07-16T11:49:32Z,2,C#
