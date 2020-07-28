@@ -22,15 +22,15 @@ class data_manager:
     def append_new_data(self, json_data):
         val = []
         for item in json_data:
-            f_l = []
-            f_l.append(item['name'])
-            f_l.append(item['html_url'])
-            f_l.append(item['description'])
-            f_l.append(item['created_at'])
-            f_l.append(item['updated_at'])
-            f_l.append(item['stargazers_count'])
-            f_l.append(item['language'])
-            val.append(f_l)
+            fl = []
+            fl.append(item['name'])
+            fl.append(item['html_url'])
+            fl.append(item['description'])
+            fl.append(item['created_at'])
+            fl.append(item['updated_at'])
+            fl.append(item['stargazers_count'])
+            fl.append(item['language'])
+
         return val
 
     def fetch_data(self):
